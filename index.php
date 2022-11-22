@@ -5,6 +5,11 @@
     </head>
 
     <body>
+<?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/files/nav.php";
+   include_once($path);
+?>
         <p>This is the homepage.</p>
     </body>
 </html>
