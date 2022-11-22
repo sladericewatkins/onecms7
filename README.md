@@ -1,5 +1,5 @@
 # SladeWatkins.com
-This is the source code for SladeWatkins.com, it's largely what makes my website tick. I've open sourced it under the (MIT License)[https://github.com/sladewatkins/website/blob/master/LICENSE] for your benefit.
+This is the source code for SladeWatkins.com, it's largely what makes my website tick. I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit.
 
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with it (and maintaining those servers) and this is my attempt to stop doing so.
