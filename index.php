@@ -2,6 +2,11 @@
     <head>
         <title>Slade Rice Watkins</title>
         <link rel="stylesheet" href="/files/style.css">
+<?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/files/head.php";
+   include_once($path);
+?>
     </head>
 
     <body>
