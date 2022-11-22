@@ -1,4 +1,4 @@
-<html lang="en-us">
+<html lang="en">
     <head>
         <title>Slade Rice Watkins</title>
 <?php 
