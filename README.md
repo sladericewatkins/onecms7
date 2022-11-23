@@ -8,4 +8,6 @@ TL:DR: this simply requires a webserver with PHP 8+ installed, and it DOESN'T RE
 
 ## Find an issue?
 If you find an issue, patch it up and submit a [pull request](https://github.com/sladewatkins/website/pulls)! I'll take a look at it and might merge it in.  
+
+## Report security issues (live site)
 Though, for security issues relating to the server I use on sladewatkins.com directly, I ask you reach out privately.
