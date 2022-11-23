@@ -6,6 +6,11 @@ If not, the license for this file is available here:
 https://github.com/sladewatkins/website/blob/master/LICENSE 
 */
 
+@font-face {
+    font-family: Contemporary;
+    src: url(/files/contemporary/Contemporary-Regular.ttf);
+}
+
 body {
     background-color: #8f0303;
 }
@@ -16,5 +21,13 @@ body {
 }
 
 .body-text {
+    font-family: Contemporary;
+    font-size: 24px;
+    color: #fff;
+}
+
+.minor-text {
+    font-family: Contemporary;
+    font-size: 12px;
     color: #fff;
 }
