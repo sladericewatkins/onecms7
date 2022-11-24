@@ -6,6 +6,11 @@
    $path .= "/files/head.php";
    include_once($path);
 ?>
+<?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/files/seo.php";
+   include_once($path);
+?>
     </head>
 
     <body>
