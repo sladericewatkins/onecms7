@@ -1,6 +1,6 @@
 .github
 /.github/*
-/.bridgetown_cache/*
+/.bridgetown-cache/*
 .git
 .gh
 .srw_internal
