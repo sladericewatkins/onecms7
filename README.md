@@ -9,7 +9,9 @@ I'm building this site to be database-free, no SQL of any kind to be found. I ha
 TL:DR: this simply requires a webserver with PHP 8+ installed, as well as minor support for Ruby and [Bridgetown](https://www.bridgetownrb.com/) (if hosting locally for development), and it DOESN'T REQUIRE SQL/Database servers of any kind. Yay!
 
 ## Find an issue?
-If you find an issue, patch it up and submit a [pull request](https://github.com/sladewatkins/website/pulls)! I'll take a look at it and might merge it in.
+If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/website/pulls)! I'll take a look at it and might merge it in.
+
+If you'd prefer to just report it, please do so using the [issues tab](https://github.com/sladewatkins/website/issues).
 
 ## Report security issues (live site)
 Though, for security issues relating to the server I use on sladewatkins.com directly, I ask you reach out privately.
