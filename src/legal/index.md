@@ -9,4 +9,4 @@ Some legalese I need to provide:
 
 You can find these licenses in the [repository's LICENSE directory](https://github.com/sladewatkins/website/blob/master/LICENSEdirectory.md).
 
-Also, by visiting my website, you agree to the [terms of service](./terms-of-service) and [privacy policy](./privacy-policy)
+Also, by visiting my website, you agree to the [terms of service](/legal/terms-of-service) and [privacy policy](/legal/privacy-policy)
