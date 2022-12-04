@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Website - Documentation | Slade Rice Watkins</title>
+
+<meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
+<meta name="generator" content="OneCMS 7.0.0 based on Bridgetown 1.1.0" />
+
+<link rel="stylesheet" href="/_bridgetown/static/index.54YWA64G.css" />
+<script src="/_bridgetown/static/index.6X27IUHB.js" defer></script>
+<script type="module">let lastmod = 0
+function startReloadConnection() {
+  const evtSource = new EventSource("/_bridgetown/live_reload")
+  evtSource.onmessage = event => {
+    if (event.data == "reloaded!") {
+      location.reload()
+    } else {
+      const newmod = Number(event.data)
+      if (lastmod > 0 && newmod > 0 && lastmod < newmod) {
+        location.reload()
+      } else {
+        lastmod = newmod
+      }
+    }
+  }
+  evtSource.onerror = event => {
+    if (evtSource.readyState === 2) {
+      // reconnect with new object
+      evtSource.close()
+      console.warn("Live reload: attempting to reconnect in 3 seconds...")
+
+      setTimeout(() => startReloadConnection(), 3000)
+    }
+  }
+}
+setTimeout(() => {
+  startReloadConnection()
+}, 500)
+</script>
+
+  </head>
+  <body class="page ">
+    <header>
+  <a href="/"><img src="/images/home.png" style="width: 10%; height: 10%;" alt="Slade Watkins wearing a cap and gown" /></a>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+	<li><a href="/faq">FAQ</a></li>
+    <li><a href="/blonger">Blo(n)g(er)</a></li>
+  </ul>
+</nav>
+
+
+    <main>
+      <h1>Website - Documentation</h1>
+
+<ol>
+  <li><a href="/docs/website/contributing">Contributing</a></li>
+  <li><a href="/docs/website/revision-testing">Revision Testing</a></li>
+</ol>
+
+
+    </main>
+
+    <footer>
+<p>&copy; 2010-2022 Slade Watkins; all rights reserved.<br/>A production of <a href="https://media.sites.sladewatkins.com">Slade Watkins Media</a>.</p>
+</footer>
+  </body>
+</html>
