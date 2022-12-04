@@ -60,7 +60,35 @@ setTimeout(() => {
     <main>
       <h1>Website - Revision Testing</h1>
 
+<p>Testing your revisions is really important, as when you launch a test server, you’ll know immediately if you broke something (and potentially what you broke, as well).</p>
 
+<p>This guide is written for macOS and can be loosely applied to Linux as well. If you use Windows, you’re on your own.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>You’ll need <a href="https://brew.sh">Homebrew</a> installed <em>before going any further</em>. Once you’ve installed it, run the following command in Terminal:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem install bridgetown -N
+</code></pre></div></div>
+
+<p>And you’re set. Now you can…</p>
+
+<h2 id="get-going-for-the-first-time">Get going for the first time</h2>
+<p>First, start by cloning the <a href="https://github.com/sladewatkins/website">sladewatkins/website</a> repository from GitHub using <code class="highlighter-rouge">git</code>. <strong>Make sure you do this in the parent directory where you’d like the files to be stored.</strong></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/sladewatkins/website.git
+</code></pre></div></div>
+
+<p>Then, use <code class="highlighter-rouge">cd</code> to enter the directory you just created.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd website
+</code></pre></div></div>
+
+<p>Then, run the following command to start the internal server included with Bridgetown:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bin/bridgetown start
+</code></pre></div></div>
+
+<p>And you now have a replica of this website running at <a href="http://localhost:4000">localhost:4000</a></p>
 
 
     </main>
