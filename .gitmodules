@@ -1,6 +1,3 @@
-[submodule "privacy-policy"]
-	path = privacy-policy
-	url = https://github.com/sladewatkins/privacy-policy
 [submodule "terms-of-service"]
 	path = terms-of-service
 	url = https://github.com/sladewatkins/terms-of-service
