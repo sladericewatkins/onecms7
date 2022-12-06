@@ -6,7 +6,7 @@ The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree w
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
 
-TL:DR: this simply requires a webserver with PHP 8+ installed, as well as minor support for Ruby and [Bridgetown](https://www.bridgetownrb.com/) (if hosting locally for development), and it DOESN'T REQUIRE SQL/Database servers of any kind. Yay!
+TL:DR: this simply requires a webserver, as well as support for Ruby and [Bridgetown](https://www.bridgetownrb.com/) (if hosting locally for development), and it DOESN'T REQUIRE SQL/Database servers of any kind. Yay!
 
 ## Find an issue?
 If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/website/pulls)! I'll take a look at it and might merge it in.
