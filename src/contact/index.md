@@ -11,7 +11,7 @@ Some might prefer DMs, I prefer email. It's just *so much easier*.
 - Direct: [slade [at] sladewatkins [dot] com](slade@sladewatkins.com)
 
 
-## Notes:
+## Please note
 
 - If you find an account online you think is fake, please email foundafake [at] sladewatkins [dot] net
 - I email from both sladewatkins.com and sladewatkins.net. I control both domains.
