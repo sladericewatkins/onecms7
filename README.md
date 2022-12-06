@@ -1,7 +1,7 @@
 # SladeWatkins.com
 This is the source code for SladeWatkins.com, it's largely what makes my website tick. I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit. (Do note that my blog is licensed under the CC-BY-SA-4.0 license.)
 
-The ``[gh-pages](https://github.com/sladewatkins/website/tree/gh-pages)`` tree within this repository is what is served to the public on [sladewatkins.com](https://www.sladewatkins.com).
+The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository is what is served to the public on [sladewatkins.com](https://www.sladewatkins.com).
 
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
