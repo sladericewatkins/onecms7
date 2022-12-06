@@ -16,7 +16,7 @@ As part of Lobby Day, I spoke to several lawmakers in New York State, including 
 The only affiliation I publicly have is with the [Wallymer group](https://www.wallymer.com). My friends and I work on projects under that name with help and guidance from some of our mentors.
 
 ## What phone do you daily drive?
-I daily drive both an iPhone SE (2nd generation) *and* Google Pixel 6.
+I daily drive both an iPhone SE (2nd generation) *and* Google Pixel 6, both connected to [US Mobile](https://www.usmobile.com) (Verizon).
 
 ## What are you up to nowadays?
 Well, I work on [Kakariko Herald](https://www.kakarikoherald.com) full-time, which I juggle with some other secret projects! I love what I do and wouldn’t change it for the world. If you’d like to support me, you can find me over on KH!
