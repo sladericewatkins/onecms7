@@ -83,7 +83,8 @@ hr {
   margin: 3rem 0;
 } 
 
+/* add Turbo */
 .turbo-progress-bar {
-  height: 5px;
+  height: 6px;
   background-color: rgb(217,65,73);
 }
