@@ -12,6 +12,7 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 ### I have experience with:
 
 - WordPress (WP) (ver. 3.0+)
+- Bridgetown
 - Content Delivery Networks (CDNs)
 - HTML4/HTML5
 - PHP (ver. 5.3+)
