@@ -7,7 +7,7 @@
 <meta name="generator" content="{{ metadata.generator }}" />
 {% feed_meta %}
 
-<link rel="stylesheet" href="{% asset_path css %}" />
+<link rel="stylesheet" data-turbo-track="reload" href="{% asset_path css %}" />
 <script src="https://cdn.skypack.dev/@hotwired/turbo" defer></script>
-<script src="{% asset_path js %}" defer></script>
+<script data-turbo-track="reload"src="{% asset_path js %}" defer></script>
 {% live_reload_dev_js %}
