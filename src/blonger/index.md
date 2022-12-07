@@ -10,3 +10,5 @@ title: Blo(n)g(er)
     </li>
   {% endfor %}
 </ul>
+
+For the RSS feed, <a href="{{ '/feed.xml' | relative_url }}">click here</a>.
