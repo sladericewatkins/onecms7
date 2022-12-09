@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-<title>Welcome to Blo(n)g(er) | Slade Rice Watkins</title>
+<title>Website - How staging works | Slade Rice Watkins</title>
 
 <meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
 <meta name="generator" content="OneCMS 7.0.1 based on Bridgetown 1.1.0" />
@@ -44,7 +44,7 @@ setTimeout(() => {
 </script>
 
   </head>
-  <body class="post ">
+  <body class="page ">
     <header>
   <a href="/"><img src="/images/home.png" style="width: 10%; height: 10%;" alt="Slade Watkins wearing a cap and gown" /></a>
 </header>
@@ -61,13 +61,12 @@ setTimeout(() => {
 
 
     <main>
-      <h1>Welcome to Blo(n)g(er)<br />
-<span style="font-size: 14px;">Written by Slade Rice Watkins on Nov 21st, 2022</span>
-</h1>
+      <h1>Website - How staging works</h1>
 
-<p>Welcome to Blo(n)g(er). This is my anti-blog, wherein if I post something on social media that requires an unrestricted character limit, I will post it here and link to it as a post.</p>
+<p>Patches, pull requests, and anything from anyone are pulled into the <code class="highlighter-rouge">staging</code> branch (or “tree”). That tree is the destination for all in-progress work.</p>
 
-<p>Oh, and I guess I’m writing random things here, too…</p>
+<p>You can think of this as the destination for commits that are ready to get pushed to production, but on their own, are too insignificant to be pushed on their own. Once enough commits pile up in staging, then (and only then) will I pull them up into the <code class="highlighter-rouge">master</code> tree. <code class="highlighter-rouge">staging</code> then effectively resets, both trees become equal, allowing me to pick back up from square one.</p>
+
 
     </main>
 
