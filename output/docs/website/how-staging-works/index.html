@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-<title>Website - Documentation | Slade Rice Watkins</title>
+<title>Website - How staging works | Slade Rice Watkins</title>
 
 <meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
 <meta name="generator" content="OneCMS 7.0.1 based on Bridgetown 1.1.0" />
@@ -33,14 +33,11 @@
 
 
     <main>
-      <h1>Website - Documentation</h1>
+      <h1>Website - How staging works</h1>
 
-<h2 id="articles-in-this-section">Articles in this section</h2>
-<ol>
-  <li><a href="/docs/website/contributing">Contributing</a></li>
-  <li><a href="/docs/website/how-staging-works">How staging works</a></li>
-  <li><a href="/docs/website/revision-testing">Revision Testing</a></li>
-</ol>
+<p>Patches, pull requests, and anything from anyone are pulled into the <code class="highlighter-rouge">staging</code> branch (or “tree”). That tree is the destination for all in-progress work.</p>
+
+<p>You can think of this as the destination for commits that are ready to get pushed to production, but on their own, are too insignificant to be pushed on their own. Once enough commits pile up in staging, then (and only then) will I pull them up into the <code class="highlighter-rouge">master</code> tree. <code class="highlighter-rouge">staging</code> then effectively resets, both trees become equal, allowing me to pick back up from square one.</p>
 
 
     </main>
