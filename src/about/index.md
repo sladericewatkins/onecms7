@@ -34,4 +34,4 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 - Officially formed Wallymer — October 2021
 - Graduated High School, NYS Regents Diploma — June 2021
 
-Consider [getting in touch](/contact) or see [my FAQ page](/faq).
+Consider [getting in touch](/contact/) or see [my FAQ page](/faq/).
