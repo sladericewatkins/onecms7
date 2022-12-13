@@ -8,6 +8,7 @@ Some might prefer DMs, I prefer email. It's just *so much easier* on me since my
 
 - Business: [info [at] sladewatkins [dot] com](mailto:info@sladewatkins.com)
 - Kakariko Herald: [watkins [at] kakarikoherald [dot] com](mailto:watkins@kakarikoherald.com)
+- Git: [srw [at] sladewatkins [dot] net](mailto:srw@sladewatkins.net)
 - Direct: [slade [at] sladewatkins [dot] com](mailto:slade@sladewatkins.com)
 
 
