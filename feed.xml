@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.1.0">Bridgetown</generator><link href="https://www.sladewatkins.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sladewatkins.com/" rel="alternate" type="text/html" /><updated>2022-12-12T19:53:49-05:00</updated><id>https://www.sladewatkins.com/feed.xml</id><title type="html">Slade Rice Watkins</title><subtitle>Slade is a web developer and content creator who makes stuff from time-to-time.</subtitle><entry><title type="html">I’m an indecisive mess</title><link href="https://www.sladewatkins.com/blonger/i-am-an-indecisive-mess/" rel="alternate" type="text/html" title="I&apos;m an indecisive mess" /><published>2022-12-03T00:58:36-05:00</published><updated>2022-12-03T00:58:36-05:00</updated><id>repo://posts.collection/_posts/2022-12-03-i-am-an-indecisive-mess.md</id><content type="html" xml:base="https://www.sladewatkins.com/blonger/i-am-an-indecisive-mess/">&lt;p&gt;I got to thinking… I’m an indecisive mess.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.1.0">Bridgetown</generator><link href="https://www.sladewatkins.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.sladewatkins.com/" rel="alternate" type="text/html" /><updated>2022-12-13T07:50:27-05:00</updated><id>https://www.sladewatkins.com/feed.xml</id><title type="html">Slade Rice Watkins</title><subtitle>Slade is a web developer and content creator who makes stuff from time-to-time.</subtitle><entry><title type="html">Why open source matters &amp;amp; how I’m helping</title><link href="https://www.sladewatkins.com/blonger/why-open-source-matters-and-how-i-am-helping/" rel="alternate" type="text/html" title="Why open source matters &amp; how I&apos;m helping" /><published>2022-12-13T07:45:00-05:00</published><updated>2022-12-13T07:45:00-05:00</updated><id>repo://posts.collection/_posts/2022-12-13-why-open-source-matters-and-how-i-am-helping.md</id><content type="html" xml:base="https://www.sladewatkins.com/blonger/why-open-source-matters-and-how-i-am-helping/">&lt;p&gt;(Updated December 13th, 2022)&lt;/p&gt;
+
+&lt;p&gt;Following Twitter’s acquisition by Elon Musk, and the clear indication that Big Tech was only going to get bigger, I previously announced via social media that I’d commit to using open-source software and technologies on my devices going forward.&lt;/p&gt;
+
+&lt;p&gt;That reigns true with me taking a moment to reiterate the announcement, as well as detail the specifics of what I’ve changed thus far (as of November 4, 2022).&lt;/p&gt;
+
+&lt;p&gt;To reiterate, here was my full statement on it…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’m making a commitment to [heavily] use open-source software in my workflow starting in 2023. Until that time, I will slowly phase out [most] proprietary software on my systems.&lt;/p&gt;
+
+  &lt;p&gt;The only exception will be if it’s needed for work. Otherwise, an open-source alternative will be used.&lt;/p&gt;
+
+  &lt;p&gt;I’m sick of enabling corporate overlords and billionaires, and will not allow them to exert control over how I operate on a day-to-day. This mission has already begun with my switch back to Linux, this time using the Ubuntu-based Pop!_OS*.&lt;/p&gt;
+
+  &lt;p&gt;Where I am able, I will give back to these open-source projects monetarily, time-wise (helping with PRs, issues, development), or both. I am a firm believer in open-source: it is the future. Life’s better when we all work together!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And here’s what I’ve changed so far…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I will no longer use Windows unless it is absolutely required.&lt;/li&gt;
+  &lt;li&gt;I use Linux for computing devices, Android on mobile devices.&lt;/li&gt;
+  &lt;li&gt;I’ve switched from Adobe Creative Cloud to DaVinci Resolve and GIMP on my primary system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I plan to update this article as I continue changing my workflow over to open source alternatives. I except to be fully switched over to mostly open-source projects by February 6, 2023.&lt;/p&gt;
+
+&lt;p&gt;Feel free to hit me up and ask questions about it! I usually hang out on &lt;a href=&quot;https://tech.lgbt/@sladewatkins&quot;&gt;Mastodon (@sladewatkins@tech.lgbt)&lt;/a&gt;, but I can also be found &lt;a href=&quot;https://meta.slade.link&quot;&gt;everywhere else&lt;/a&gt; too (including &lt;a href=&quot;/contact/&quot;&gt;email&lt;/a&gt;).&lt;/p&gt;</content><author><name>Slade Rice Watkins</name></author></entry><entry><title type="html">I’m an indecisive mess</title><link href="https://www.sladewatkins.com/blonger/i-am-an-indecisive-mess/" rel="alternate" type="text/html" title="I&apos;m an indecisive mess" /><published>2022-12-03T00:58:36-05:00</published><updated>2022-12-03T00:58:36-05:00</updated><id>repo://posts.collection/_posts/2022-12-03-i-am-an-indecisive-mess.md</id><content type="html" xml:base="https://www.sladewatkins.com/blonger/i-am-an-indecisive-mess/">&lt;p&gt;I got to thinking… I’m an indecisive mess.&lt;/p&gt;
 
 &lt;p&gt;I don’t know what type of phone I want to use – dumb phone, smart phone, Android phone, iOS phone – I don’t know what operating system I want to use. I’ve used probably every type of device, and while I do have preferences, I almost never stick with anything for more than a couple weeks. That annoys people, I get it, but I like to try everything. And sometimes I find new things that fit into the workflow.&lt;/p&gt;
 
