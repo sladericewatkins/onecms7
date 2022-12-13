@@ -1,5 +1,5 @@
 # SladeWatkins.com
-[![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/website)](https://cla-assistant.io/sladewatkins/website)[![Deploy to Prod](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml)
+[![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/website)](https://cla-assistant.io/sladewatkins/website) [![Deploy to Prod](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml)
 
 This is the source code for SladeWatkins.com, it's largely what makes my website tick. I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit. (Do note that my blog is licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
 
