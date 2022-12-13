@@ -9,4 +9,4 @@ Some legalese I need to provide:
 
 *You can find these licenses by clicking their respective titles above.*
 
-Also, by visiting my website, you agree to the [terms of service](/legal/terms-of-service/) and [privacy policy](/legal/privacy-policy/)
+Also, by visiting my website, you agree to my [terms of service](/legal/terms-of-service/) and [privacy policy](/legal/privacy-policy/).
