@@ -4,8 +4,8 @@ title: Legal
 ---
 
 Some legalese I need to provide:
-- the code that makes this site work is licensed under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE).
-- the contents of [Blo(n)g(er)](/blonger/), and the text of this website, are licensed under the [CC-BY-SA-4.0 License](https://github.com/sladewatkins/website/blob/master/src/blonger/LICENSE).
+- the code that makes this site work is licensed under the [MIT License](https://github.com/sladewatkins/website/blob/master/codeLICENSE).
+- the contents of [Blo(n)g(er)](/blonger/), and the text of this website, are licensed under the [CC-BY-SA-4.0 License](https://github.com/sladewatkins/website/blob/master/textLICENSE).
 
 *You can find these licenses by clicking their respective titles above.*
 
