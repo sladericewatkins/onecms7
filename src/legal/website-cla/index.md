@@ -1,0 +1,41 @@
+---
+layout: page
+title: Website Contributor License Agreement (CLA)
+---
+
+Okay, we'll keep the legalese to a minimum. This CLA is written for people to easily understand, no complicated language, no redundancy. Just a simple agreement.
+
+A copy of this CLA (in plain-text form) will be included in and distributed with the repository, as well as on the Website itself, beginning in December 2022.
+
+---
+
+You hereby agree to the following terms and conditions as laid out by Slade Rice Watkins for your past, present, and future Contributions to the Website.
+
+  - **Glossary** (including plurals): 
+    - "You", "Your", "Yours", the contributor.
+    - "Contributors", other contributors of code to this repository.
+    - "Text", meaning your Text that could be publicly displayed on the Website.
+    - "Your Contributions", the contributions You made or will make to this repository.
+    - "Website", the [``sladewatkins.com``](https://sladewatkins.com) website.
+    - "Slade Rice Watkins", "Me", "Slade", the repository creator.
+    
+  - **Terms and Grants**:
+    - You hereby grant to Slade Rice Watkins and to recipients of software distributed by Slade Rice Watkins a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
+    - You hereby grant Slade Rice Watkins and all Contributors irrevocable permission to redistribute Your code under the MIT License and your Text under the CC-BY-SA-4.0 license, per the Terms of this repository laid out above.
+    - You hereby grant to Slade Rice Watkins and to all Contributors permission to use Your code in patent works, per the Terms of this repository laid out above.
+    
+  - **Contributions**
+    - By signing this CLA, You hereby affirm that all Contributors made by You are Yours.
+    - You hereby affirm you will document and explain changes you make to this repository, including but not limited to: why the change is necessary, what the change does, and how that change affects the Website. You can do so in a commit message, pull request description, or comments within the code itself.
+    - You hereby affirm to abide by the terms of the Developer Certificate of Origin (DCO), which is available in text form in the ``DCO`` file, or at [``developercertificate.org``](https://developercertificate.org/).
+      - Due to the DCO, You also hereby acknowledge and affirm that You will add a ``Signed-off-by:`` tag to each and every commit you make to this repository, with reverts being the ONLY exception to this rule.
+
+  - **Explicit Grant of Copyright**:
+    - By signing this CLA, You hereby grant to Slade Rice Watkins and to recipients of software distributed by Slade Rice Watkins a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Your Contributions and such derivative works.
+    
+  - **Rights Reserved by Slade Rice Watkins and Contributors**:
+    - Slade Rice Watkins and Contributors reserve the right to update this CLA to a newer version at any time.
+    - Slade Rice Watkins and Contributors reserve the right to update this CLA with or without notice, at their discretion.
+
+  - **Contact**:
+    - For questions about this policy, please email [``info@sladewatkins.com``](mailto:info@sladewatkins.com) with the subject ``"Website CLA"``.
