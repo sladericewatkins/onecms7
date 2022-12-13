@@ -3,6 +3,11 @@ layout: page
 title: FAQ
 ---
 
+## Where are the archives of your website's previous iterations?
+Each version from v4 and newer has been archived, you can find them in their new homes below:
+- [v4](https://www.oldsite.sladewatkins.com)
+- [v5](https://vault.sladewatkins.com/v5/)
+
 ## What operating system do you prefer most?
 macOS.
 
