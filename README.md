@@ -10,7 +10,7 @@ I'm building this site to be database-free, no SQL of any kind to be found. I ha
 
 TL:DR: this simply requires a webserver, as well as support for Ruby and [Bridgetown](https://www.bridgetownrb.com/) (if hosting locally for development), and it DOESN'T REQUIRE SQL/Database servers of any kind. Yay!
 
-## The ``staging`` branch
+## The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch
 The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch is special - that's where all commits set to roll out to production ("master" branch) need to sit and be tested by Slade's Continous Integration (CI) system + a few of his physical systems. This is to ensure no issues are found and things keep going smoothly.
 
 ## Find an issue?
