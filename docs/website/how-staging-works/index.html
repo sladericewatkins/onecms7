@@ -7,7 +7,7 @@
 <title>Website - How staging works | Slade Rice Watkins</title>
 
 <meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
-<meta name="generator" content="OneCMS 7.0.2 based on Bridgetown 1.1.0" />
+<meta name="generator" content="OneCMS 7.0.3 based on Bridgetown 1.1.0" />
 <meta name="turbo-cache-control" content="no-preview" />
 <link type="application/atom+xml" rel="alternate" href="https://www.sladewatkins.com/feed.xml" title="Slade Rice Watkins" />
 
@@ -64,7 +64,9 @@ setTimeout(() => {
 
 <p>Patches, pull requests, and anything from anyone are pulled into the <code class="highlighter-rouge">staging</code> branch (or “tree”). That tree is the destination for all in-progress work.</p>
 
-<p>You can think of this as the destination for commits that are ready to get pushed to production, but on their own, are too insignificant to be pushed on their own. Once enough commits pile up in staging, then (and only then) will I pull them up into the <code class="highlighter-rouge">master</code> tree. <code class="highlighter-rouge">staging</code> then effectively resets, both trees become equal, allowing me to pick back up from square one.</p>
+<p>You can think of this as the destination for commits that are ready to get pushed to production, but on their own, are too insignificant to be pushed on their own. Once enough commits pile up in staging*, then (and only then) will I pull them up into the <code class="highlighter-rouge">master</code> tree. <code class="highlighter-rouge">staging</code> then effectively resets, both trees become equal, allowing me to pick back up from square one.</p>
+
+<p>*Though, at the very least, I try to clear the <code class="highlighter-rouge">staging</code> tree at least once daily. That way things aren’t getting <em>too</em> clogged up.</p>
 
 
     </main>
