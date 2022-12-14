@@ -10,4 +10,4 @@ Since it can sometimes get lost amongst the chaos, I would to remind everyone th
 ## Submitting a pull request
 You can submit a pull request to the GitHub repository. Friendly reminder to make sure you don't select ``master`` as the branch you want to merge into: that's not allowed. Please, always make sure to select ``staging`` when submitting a PR. 
 
-I will then take the commits, merge them into my staging tree, then send them up to ``master`` once I've tested and reviewed revisions myself.
+I will then take the commits, merge them into my ``staging`` tree, then send them up to ``master`` once I've tested and reviewed revisions myself.
