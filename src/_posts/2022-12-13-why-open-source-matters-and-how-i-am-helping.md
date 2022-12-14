@@ -28,6 +28,6 @@ And here’s what I’ve changed so far…
 - I use Linux for computing devices, Android on mobile devices.
 - I’ve switched from Adobe Creative Cloud to DaVinci Resolve and GIMP on my primary system.
 
-I plan to update this article as I continue changing my workflow over to open source alternatives. I except to be fully switched over to mostly open-source projects by February 6, 2023.
+I plan to update this article as I continue changing my workflow over to open source alternatives. I expect to be fully switched over to mostly open-source projects by February 6, 2023.
 
 Feel free to hit me up and ask questions about it! I usually hang out on [Mastodon (@sladewatkins@tech.lgbt)](https://tech.lgbt/@sladewatkins), but I can also be found [everywhere else](https://meta.slade.link) too (including [email](/contact/)).
