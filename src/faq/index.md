@@ -9,7 +9,7 @@ Each version from v4 and newer has been archived, you can find them in their new
 - [v5](https://vault.sladewatkins.com/v5/)
 
 ## What operating system do you prefer most?
-macOS.
+[macOS](https://www.apple.com/macos/).
 
 ## Is ‘Dear Nintendo’ still being maintained?
 Yes, it is still available at [dearnintendo.sladewatkins.com](https://dearnintendo.sladewatkins.com). Folks can sign the open letter until March 2023, at which point, it will be [sent to the vault](https://vault.sladewatkins.com).
