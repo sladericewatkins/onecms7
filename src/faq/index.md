@@ -15,7 +15,7 @@ Each version from v4 and newer has been archived, you can find them in their new
 - [v5](https://vault.sladewatkins.com/v5/)
 
 ## What phone do you daily drive?
-I daily drive both an iPhone SE (2nd generation) *and* Google Pixel 6, both connected to [US Mobile](https://www.usmobile.com) (Verizon). I switch which one is in "lead" (read: "has my personal SIM card in it") pretty frequently. It's a bad habit, I know... but hey, it is what it is.
+I daily drive both an iPhone SE (2nd generation) *and* Google Pixel 6, both connected to [US Mobile](https://www.usmobile.com) (Verizon SIM/Warp 5G). I switch which one is in "lead" (read: "has my personal SIM card in it") pretty frequently. It's a bad habit, I know... but hey, it is what it is.
 
 ## Is ‘Dear Nintendo’ still being maintained?
 Yes, it is still available at [dearnintendo.sladewatkins.com](https://dearnintendo.sladewatkins.com). Folks can sign the open letter until March 2023, at which point, it will be [sent to the vault](https://vault.sladewatkins.com).
