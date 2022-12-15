@@ -7,7 +7,7 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 
 ### Current Positions:
 
-- Founder, Editor-in-Chief, Director — [Kakariko Herald](https://www.kakarikoherald.com)
+- Founder, Editor-in-Chief, Director — *March 2022-present* — [Kakariko Herald](https://www.kakarikoherald.com)
 
 ### I have experience with:
 
