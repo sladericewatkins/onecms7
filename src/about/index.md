@@ -11,22 +11,22 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 
 ### I have experience with:
 
-- WordPress (WP) (ver. 3.0+)
-- Bridgetown
+- [WordPress](https://wordpress.org) (ver. 3.0+)
+- [Bridgetown](https://www.bridgetownrb.com)
 - [Mastodon](https://joinmastodon.org)
 - Content Delivery Networks (CDNs)
 - HTML4/HTML5
-- PHP (ver. 5.3+)
-- Ruby
-- Ruby on Rails (ver. 7.0+)
+- [PHP](https://www.php.net) (ver. 5.3+)
+- [Ruby](https://ruby-lang.org)
+- [Ruby on Rails](https://rubyonrails.org) (ver. 7.0+)
 - MySQL
+- PostgreSQL
 - SQLite
 - JavaScript
 - CSS
 - .SVG
-- Adobe Photoshop (CS6+, CC 2017+)
-- Adobe Premiere Pro (CS6+, CC 2017+)
-- Final Cut Pro
+- Adobe Creative Suite 6/CC 2017+
+- [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 
 ### Some accomplishments:
 
