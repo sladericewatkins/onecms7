@@ -25,7 +25,7 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 - JavaScript
 - CSS
 - .SVG
-- Adobe Creative Suite 6/CC 2017+
+- Adobe [Creative Suite 6](https://en.wikipedia.org/wiki/Adobe_Creative_Suite#Creative_Suite_6)/[CC 2017+](https://www.adobe.com/creativecloud.html)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 
 ### Some accomplishments:
