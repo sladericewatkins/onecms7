@@ -4,7 +4,7 @@ title: FAQ
 ---
 
 ## What text editor do you prefer most?
-[TextMate](https://macromates.com/) on Mac, [VSCodium](https://vscodium.com/) on everything else.
+[TextMate](https://macromates.com/) on Mac, [VSCodium](https://vscodium.com/) on everything else. Both are open source!
 
 ## What operating system do you prefer most?
 [macOS](https://www.apple.com/macos/).
