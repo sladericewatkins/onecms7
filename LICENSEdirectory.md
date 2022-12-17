@@ -1,2 +1,2 @@
-- Website license: [https://github.com/sladewatkins/website/blob/master/LICENSE](https://github.com/sladewatkins/website/blob/master/LICENSE)
-- Blo(n)g(er)/site text license: [https://github.com/sladewatkins/website/blob/master/blonger/LICENSE](https://github.com/sladewatkins/website/blob/master/textLICENSE)
+- Website license: [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE)
+- Blo(n)g(er)/site text license: [CC-BY-SA-4.0](https://github.com/sladewatkins/website/blob/master/textLICENSE)
