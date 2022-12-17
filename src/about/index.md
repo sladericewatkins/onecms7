@@ -19,9 +19,9 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 - [PHP](https://www.php.net) (ver. 5.3+)
 - [Ruby](https://ruby-lang.org)
 - [Ruby on Rails](https://rubyonrails.org) (ver. 7.0+)
-- MySQL
-- PostgreSQL
-- SQLite
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 - JavaScript
 - CSS
 - .SVG
