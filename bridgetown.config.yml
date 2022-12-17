@@ -23,3 +23,6 @@ template_engine: liquid
 pagination:
   enabled: true
 timezone: America/New_York
+
+development:
+  unpublished: true
