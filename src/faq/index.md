@@ -21,7 +21,7 @@ I daily drive both an [iPhone SE (2nd generation)](https://support.apple.com/kb/
 Yes, it is still available at [dearnintendo.sladewatkins.com](https://dearnintendo.sladewatkins.com). Folks can sign the open letter until March 2023, at which point, it will be [sent to the vault](https://vault.sladewatkins.com).
 
 ## Is it true that you spoke to New York State lawmakers in 2021?
-As part of Lobby Day, I spoke to several lawmakers in New York State, including [my senator](https://www.nysenate.gov/senators/daphne-jordan), about my experience in BOCES programs over the years. Part of that included advocating for the continuation of funding for my former school.
+As part of "Lobby Day" at my former high school, I spoke to several lawmakers in New York State, including [my senator](https://www.nysenate.gov/senators/daphne-jordan), about my experience in BOCES programs over the years. Part of that included advocating for the continuation of funding for my former school.
 
 ## What are you up to nowadays?
 Well, I work on [Kakariko Herald](https://www.kakarikoherald.com) full-time, which I juggle with some other secret projects! I love what I do and wouldn’t change it for the world. If you’d like to support me, you can find me over on KH or [Ko-Fi](https://ko-fi.com/sladewatkins)!
