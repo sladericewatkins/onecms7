@@ -2,12 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 {% capture resource_title %}
   {{ title | strip_html | strip_newlines }}{% endcapture %}
-<title>
-  {% if resource_title != "Index" %}
-    {{ resource_title | escape }} | {{ metadata.title | escape }}
-  {% else %}
-    {{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}
-</title>
+<title>{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}</title>
 
 <meta name="description" content="{{ metadata.description }}" />
 <meta name="generator" content="{{ metadata.generator }}" />
@@ -16,33 +11,17 @@
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.sladewatkins.com/">
-<meta
-  property="og:title"
-  content="{% if resource_title != "Index" %}
-  {{ resource_title | escape }} | {{ metadata.title | escape }}
-{% else %}
-  {{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}">
+<meta property="og:title" content="{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}">
 <meta property="og:description" content="Slade is a web developer and content creator who makes stuff from time-to-time.">
 <meta property="og:image" content="{{ '/images/home.png' | relative_url }}">
 
 <meta property="twitter:card" content="summary">
 <meta property="twitter:site" content="@sladewatkins">
 <meta property="twitter:url" content="https://www.sladewatkins.com/">
-<meta
-  property="twitter:title"
-  content="{% if resource_title != "Index" %}
-  {{ resource_title | escape }} | {{ metadata.title | escape }}
-{% else %}
-  {{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}">
+<meta property="twitter:title" content="{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}">
 <meta property="twitter:description" content="Slade is a web developer and content creator who makes stuff from time-to-time.">
 <meta property="twitter:image" content="{{ '/images/home.png' | relative_url }}">
 
-<link
-  rel="stylesheet"
-  data-turbo-track="reload"
-  href="{% asset_path css %}" />
-<script
-  data-turbo-track="reload"
-  src="{% asset_path js %}"
-  defer></script>
+<link rel="stylesheet" data-turbo-track="reload" href="{% asset_path css %}" />
+<script data-turbo-track="reload" src="{% asset_path js %}" defer></script>
 {% live_reload_dev_js %}
