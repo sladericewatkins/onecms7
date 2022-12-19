@@ -1,0 +1,25 @@
+{
+    "subject":"acct:slade@pope.party",
+    "aliases":
+    [
+        "https://pope.party/@slade",
+        "https://pope.party/users/slade"
+    ],
+    "links":
+    [
+        {
+            "rel":"http://webfinger.net/rel/profile-page",
+            "type":"text/html",
+            "href":"https://pope.party/@slade"
+        },
+        {
+            "rel":"self",
+            "type":"application/activity+json",
+            "href":"https://pope.party/users/slade"
+        },
+        {
+            "rel":"http://ostatus.org/schema/1.0/subscribe",
+            "template":"https://pope.party/authorize_interaction?uri={uri}"
+        }
+    ]
+}
