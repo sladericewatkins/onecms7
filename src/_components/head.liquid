@@ -11,14 +11,14 @@
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.sladewatkins.com/">
-<meta property="og:title" content="{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}">
+<meta property="og:title" content="{{ resource_title | escape }}">
 <meta property="og:description" content="Slade is a web developer and content creator who makes stuff from time-to-time.">
 <meta property="og:image" content="https://www.sladewatkins.com/images/home.png">
 
 <meta property="twitter:card" content="summary">
 <meta property="twitter:site" content="@sladewatkins">
 <meta property="twitter:url" content="https://www.sladewatkins.com/">
-<meta property="twitter:title" content="{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}">
+<meta property="twitter:title" content="{{ resource_title | escape | strip_newlines }}">
 <meta property="twitter:description" content="Slade is a web developer and content creator who makes stuff from time-to-time.">
 <meta property="twitter:image" content="https://www.sladewatkins.com/images/home.png">
 
