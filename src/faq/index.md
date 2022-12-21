@@ -3,6 +3,9 @@ layout: page
 title: FAQ
 ---
 
+## What are your "break" dates for December 2022-January 2023?
+Each year around the holidays, I take a break from answering emails or working on projects. This year is no different. I'll be off from December 21, 2022 through January 2nd, 2023. "Business as usual" will resume January 3rd, 2023. **I wish you a very Happy Holidays and Happy New Year!** ❤️
+
 ## What text editor do you prefer most?
 [TextMate](https://macromates.com/) on Mac, [VSCodium](https://vscodium.com/) on everything else. Both are open source!
 
