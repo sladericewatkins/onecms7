@@ -6,8 +6,8 @@ title: FAQ
 ## What text editor do you prefer most?
 [TextMate](https://macromates.com/) on Mac, [VSCodium](https://vscodium.com/) on everything else. Both are open source!
 
-## What operating system do you prefer most?
-[macOS](https://www.apple.com/macos/).
+## What operating system(s) do you prefer most?
+[macOS](https://www.apple.com/macos/) and [Pop!_OS](https://pop.system76.com). Not a fan of the direction Windows is going in, but keep it around for some development stuff.
 
 ## Where are the archives of your website's previous iterations?
 Each version from v4 and newer has been archived, you can find them in their new homes below:
