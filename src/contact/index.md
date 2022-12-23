@@ -15,14 +15,22 @@ Stay safe!
 
 ***
 
-## Email me
-Some might prefer DMs, I prefer email. It's just *so much easier* on me since my DMs are already insane.
+## Contacting me
+You're probably trying to reach me for a specific reason. Well, select the option that best resembles what you're reaching out for! Trust me, it will help direct your inquiry to the right place.
 
-- Business: [info [at] sladewatkins [dot] com](mailto:info@sladewatkins.com)
-- Kakariko Herald: [watkins [at] kakarikoherald [dot] com](mailto:watkins@kakarikoherald.com)
-- Git: [srw [at] sladewatkins [dot] net](mailto:srw@sladewatkins.net)
-- Direct: [slade [at] sladewatkins [dot] com](mailto:slade@sladewatkins.com)
+### Business
+- [💼 General business](/contact/business/)
+- [💵 Ads and Sponsorships](/contact/ads/)
+- [📢 PR](/contact/pr/)
+- [🤝 Work with me](/contact/with/)
+
+### Projects
+- [📰 Kakariko Herald](https://www.kakarikoherald.com/pages/8-contact)
+- [⌨️ Git](/docs/git/)
+
+## Misc.
+- [🥸 Report fake accounts](/contact/fakes/)
+- [📧 Anything else](/contact/other/)
 
 ## Please note
-- If you find an account online you think is fake, please email [foundafake [at] sladewatkins [dot] net](mailto:foundafake@sladewatkins.net).
-- I email from both **sladewatkins.com** and **sladewatkins.net**. I control both domains.
+I email from both **sladewatkins.com** and **sladewatkins.net**. I control both domains.
