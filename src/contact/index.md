@@ -10,9 +10,10 @@ Each year around the holidays, I take some time off to go spend with family and 
 
 That said, **my team and I wish you a very Happy Holidays and Happy New Year!** 
 
-Stay safe!
--- Slade
-===
+Stay safe!  
+-- Slade  
+
+***
 
 ## Email me
 Some might prefer DMs, I prefer email. It's just *so much easier* on me since my DMs are already insane.
