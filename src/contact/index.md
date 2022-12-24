@@ -29,6 +29,7 @@ You're probably trying to reach me for a specific reason. Well, select the optio
 - [⌨️ Git](/docs/git/)
 
 ### Misc.
+- [🕸️ Joining a YouTube MCN](/contact/mcn/)
 - [🥸 Report fake accounts](/contact/fakes/)
 - [📧 Anything else](/contact/other/)
 
