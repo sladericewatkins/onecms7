@@ -6,6 +6,14 @@ title: FAQ
 ## What are your vacation dates for December 2022-January 2023?
 Each year around the holidays, I take a break from answering emails or working on projects. This year is no different. I'll be off from December 21, 2022 through January 2nd, 2023. "Business as usual" will resume January 3rd, 2023. **I wish you a very Happy Holidays and Happy New Year!** ❤️
 
+## Can you develop my app?
+Sorry, but unfortunately, I'm many years removed from the mobile app development scene. **I do mess around with Xcode, but that's more as a hobby, and I'm by no means experienced.** I have to regularly ask others for guidance just to figure out the interface. 
+
+Nowadays, I'm focused on web and computer software and I'm content with that.
+
+## Will you ever return to mobile app development?
+Yes, it's on my list of things I'd like to do! Perhaps it'll become my full-time "actual" job? I feel a calling there.
+
 ## What text editor do you prefer most?
 [TextMate](https://macromates.com/) on Mac, [VSCodium](https://vscodium.com/) on everything else. Both are open source!
 
