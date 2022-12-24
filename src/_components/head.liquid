@@ -5,7 +5,7 @@
 <title>{% if resource_title != "Index" %}{{ resource_title }} | {{ metadata.title }}{% else %}{{ metadata.title }}: {{ metadata.tagline }}{% endif %}</title>
 
 <meta name="description" content="{{ metadata.description }}" />
-<meta name="generator" content="{{ metadata.generator }}" />
+<meta name="generator" content="{{ metadata.generator }} - {{ metadata.builddate }}" />
 <meta name="turbo-cache-control" content="no-preview" />
 {% feed_meta %}
 
