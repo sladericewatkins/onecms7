@@ -34,4 +34,4 @@ You're probably trying to reach me for a specific reason. Well, select the optio
 - [📧 Anything else](/contact/other/)
 
 ## Please note
-I email from both **sladewatkins.com** and **sladewatkins.net**. I control both domains.
+I email from and control both **sladewatkins.com** and **sladewatkins.net**.
