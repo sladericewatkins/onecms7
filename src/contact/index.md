@@ -27,6 +27,7 @@ You're probably trying to reach me for a specific reason. Well, select the optio
 ### Projects
 - [📰 Kakariko Herald](https://www.kakarikoherald.com/pages/8-contact)
 - [⌨️ Git](/docs/git/)
+- [🖥️ Website issues](https://github.com/sladewatkins/website/issues)
 
 ### Misc.
 - [🕸️ Joining a YouTube MCN](/contact/mcn/)
