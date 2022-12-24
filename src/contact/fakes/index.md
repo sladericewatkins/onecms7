@@ -3,6 +3,10 @@ layout: page
 title: Report a fake account
 ---
 
+In light of the holidays, my team and I am stepping (mostly) away from our inboxes until January 3rd, 2023. Replies to emails will be sporadic. Thanks for understanding!
+
+***
+
 Found an account you think is fake? Please tell my team about it.
 
 ## But first, note...

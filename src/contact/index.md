@@ -28,7 +28,7 @@ You're probably trying to reach me for a specific reason. Well, select the optio
 - [📰 Kakariko Herald](https://www.kakarikoherald.com/pages/8-contact)
 - [⌨️ Git](/docs/git/)
 
-## Misc.
+### Misc.
 - [🥸 Report fake accounts](/contact/fakes/)
 - [📧 Anything else](/contact/other/)
 

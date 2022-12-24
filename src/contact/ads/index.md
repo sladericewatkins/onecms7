@@ -3,6 +3,10 @@ layout: page
 title: Ads and Sponsorships
 ---
 
+In light of the holidays, my team and I am stepping (mostly) away from our inboxes until January 3rd, 2023. Replies to emails will be sporadic. Thanks for understanding!
+
+***
+
 Got an opportunity for me? I'd love to hear about it!
 
 ## But first, note...
