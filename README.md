@@ -1,9 +1,13 @@
 # SladeWatkins.com
 [![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/website)](https://cla-assistant.io/sladewatkins/website) [![Deploy to Prod](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml)
 
-This is the source code for SladeWatkins.com, it's largely what makes my website tick. I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit. (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
+This is the source code for SladeWatkins.com, it's largely what makes my website tick. 
 
-The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository is what is served to the public on [sladewatkins.com](https://www.sladewatkins.com).
+## Licensing
+I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit. (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
+
+## Production assets
+The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository contains the production assets served to the public on [sladewatkins.com](https://www.sladewatkins.com).
 
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
@@ -19,4 +23,4 @@ If you find an issue, you might be able to patch it up yourself! Check out [the 
 If you'd prefer to just report it, please do so using the [issues tab](https://github.com/sladewatkins/website/issues).
 
 ## Report security issues (live site)
-Though, for security issues relating to the server I use on sladewatkins.com directly, I ask you reach out privately.
+Though, for security issues relating to the server I use on sladewatkins.com directly, I ask you [reach out privately](https://www.sladewatkins.com/contact/).
