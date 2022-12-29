@@ -21,8 +21,8 @@ Yes, it's on my list of things I'd like to do! Perhaps it'll become my full-time
 [macOS](https://www.apple.com/macos/) and [Pop!_OS](https://pop.system76.com). I'm not a fan of the direction Windows is going in, but keep it around for some development stuff.
 
 ## Where are the archives of your website's previous iterations?
-Each version from v4 ("oldsite") and newer has been archived, you can find them in their new homes below:
-- [v4](https://www.oldsite.sladewatkins.com)
+Each version from v5 and prior has been archived, you can find them in their new homes below:
+- [v4](https://vault.sladewatkins.com/v4/)
 - [v5](https://vault.sladewatkins.com/v5/)
 
 ## What phone do you daily drive?
