@@ -7,7 +7,7 @@ title: FAQ
 Each year around the holidays, I take a break from answering emails or working on projects. This year is no different. I'll be off from December 21, 2022 through January 2nd, 2023. "Business as usual" will resume January 3rd, 2023. **I wish you a very Happy Holidays and Happy New Year!** ❤️
 
 ## Can you develop my app?
-Sorry, but unfortunately, I'm many years removed from the mobile app development scene. **I do mess around with Xcode, but that's more as a hobby, and I'm by no means experienced.** I have to regularly ask others for guidance just to figure out the interface. 
+Sorry, but unfortunately, I'm many years removed from the mobile app development scene. **I do mess around with [Xcode](https://developer.apple.com/xcode/), but that's more as a hobby, and I'm by no means experienced.** I have to regularly ask others for guidance just to figure out the interface. 
 
 Nowadays, I'm focused on web and computer software and I'm content with that.
 
