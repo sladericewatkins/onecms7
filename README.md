@@ -1,7 +1,13 @@
 # SladeWatkins.com
 [![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/website)](https://cla-assistant.io/sladewatkins/website) [![Deploy to Prod](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml)
 
-This is the source code for SladeWatkins.com, it's largely what makes my website tick. 
+This is the source code for SladeWatkins.com, it's largely what makes my website tick. It's built on top of [Bridgetown](https://github.com/bridgetownrb/bridgetown) and mostly follows upstream, though has a couple tweaks specific to the environments I run it in.
+
+The tweaks and changes from Bridgetown 1.1.0 include:
+- custom integrations with local CI... self explanatory.
+- support for Ruby 3.1+.
+- more up-to-date dependencies and assets than upstream.
+- Netlify/DigitalOcean deployment integration (this is proprietary, for now, while the code is worked out). *Right now, this repository uses the gh-pages related action to send the output to the correct tree, then the CI checks out the latest prod-*-* tag, and uploads that to Netlify/DigitalOcean.*
 
 ## Licensing
 I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit. (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
