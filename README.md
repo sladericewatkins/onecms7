@@ -8,7 +8,7 @@ The tweaks and changes from Bridgetown 1.1.0 include:
 - support for Ruby 3.1+.
 - more up-to-date dependencies and assets than upstream.
 - Netlify/DigitalOcean deployment integration (this is proprietary, for now, while the code is worked out). *Right now, this repository uses the gh-pages related action to send the output to the correct tree, then the CI checks out the latest prod-x-y (x being the date, and y being the time) tag, and uploads that to Netlify/DigitalOcean.*
-- Additionally, the versioning follows that of OneCMS. OneCMS is a proprietary content management system I had developed for use with several of my projects in 2020, then again in 2021-2022. It has since been replaced by version 7+, which is *this very repository*.
+- Additionally, the versioning follows that of OneCMS. OneCMS is, for version 6 and prior), a proprietary content management system I had developed for use with several of my projects in 2020, then again in 2021-2022. It has since been replaced by version 7+, which is *this very repository*.
 
 ## Licensing
 I've open sourced it under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE) for your benefit. (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
