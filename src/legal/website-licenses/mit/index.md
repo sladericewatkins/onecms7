@@ -6,7 +6,7 @@ title: Website Licenses - MIT License
 ```
 MIT License
 
-Copyright (c) 2022 Slade Rice Watkins
+Copyright (c) 2022-present Slade Rice Watkins and contributors
 Copyright (c) 2020-present Jared White and Bridgetown contributors
 Copyright (c) 2008-2020 Tom Preston-Werner and Jekyll contributors
 
