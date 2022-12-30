@@ -35,3 +35,5 @@ gem "puma", "~> 6.0"
 gem "bridgetown-feed", "~> 2.1", :group => :bridgetown_plugins
 
 gem "roda-turbo", "~> 1.0"
+
+gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
