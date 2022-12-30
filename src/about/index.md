@@ -5,7 +5,7 @@ title: About
 
 My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-related things)! I'm a developer, gamer, and content creator. I graduated from the [Questar III John E. Sackett Educational Center](https://www.questar.org/locations/john-e-sackett-educational-center/) in June 2021 with a New York State High School Regents Diploma.
 
-### Current Positions:
+### Current:
 
 - Founder, Editor-in-Chief, Director — [Kakariko Herald](https://www.kakarikoherald.com), *March 2022-present*
 
