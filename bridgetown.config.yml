@@ -21,9 +21,17 @@ url: "https://www.sladewatkins.com" # the base hostname & protocol for your site
 permalink: simple
 template_engine: liquid
 timezone: America/New_York
+content_engine: "resource"
+defaults:
+  -
+    scope:
+      path: "images/*.png"
+    values:
+      sitemap: false
 
 pagination:
   enabled: true
 
 development:
   unpublished: true
+  
