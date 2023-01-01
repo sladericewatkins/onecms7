@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What will 2023 be the year of?"
-date:   2023-01-01 15:30:00 -0500
+date:   2023-01-01 14:55:00 -0500
 author:  Slade Rice Watkins
 categories: blonger
 ---
