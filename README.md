@@ -9,7 +9,7 @@ The tweaks and changes from Bridgetown 1.1.0 include:
 - more up-to-date dependencies and assets than Bridgetown (upstream).
 - Netlify/DigitalOcean deployment integration (this is proprietary, for now, while the code is worked out). *Right now, this repository uses the gh-pages related action to send the output to the correct tree, then the CI checks out the latest prod-x-y (x being the date, and y being the time) tag, and uploads that to Netlify/DigitalOcean.*
 - Additionally, the versioning follows that of OneCMS. Prior to version 6, OneCMS was a proprietary content management system I had developed for use with several of my projects in 2020, then again in 2021-2022. It has since been replaced by version 7+, which is an open-source fork of [Bridgetown](https://github.com/bridgetownrb/bridgetown) and contained within *this very repository*.
-	- **Compatibility**: Since OneCMS 7 is a fork of Bridgetown, it is compatible with all of its plugins and other add-ons. It is also able to rebased on to the latest versions of the upstream repository.
+	- **Compatibility**: Since OneCMS 7+ is a fork of Bridgetown, it is compatible with all of its plugins and other add-ons. It is also able to rebased on to the latest versions of the upstream repository.
 
 ## Licensing
 I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
