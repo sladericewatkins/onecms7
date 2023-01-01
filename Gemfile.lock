@@ -88,7 +88,7 @@ GEM
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    minitest (5.16.3)
+    minitest (5.17.0)
     multipart-post (2.2.3)
     nio4r (2.5.8)
     public_suffix (5.0.1)
