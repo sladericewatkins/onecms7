@@ -3,10 +3,6 @@ layout: page
 title: Something else
 ---
 
-In light of the holidays, I am stepping (mostly) away from my inbox until January 3rd, 2023. Replies to emails will be sporadic. Thanks for understanding!
-
-***
-
 Was what you want to talk to me about not on [the list](/contact/)? No worries, you can contact me directly.
 
 ## But first...
