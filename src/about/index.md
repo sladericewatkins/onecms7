@@ -15,7 +15,7 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 - [Bridgetown](https://www.bridgetownrb.com)
 - [Mastodon](https://joinmastodon.org)
 - Content Delivery Networks (CDNs)
-- HTML4/HTML5
+- HTML4+5
 - [PHP](https://www.php.net) (ver. 5.3+)
 - [Ruby](https://ruby-lang.org)
 - [Ruby on Rails](https://rubyonrails.org) (ver. 7.0+)
