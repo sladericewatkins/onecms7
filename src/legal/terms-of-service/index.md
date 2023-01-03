@@ -287,7 +287,7 @@ prohibited.
 ### Permissions
 
 You may request permission to use the copyright materials on this website by
-writing to info@sladewatkins.com.
+writing to [info@sladewatkins.com](mailto:info@sladewatkins.com).
 
 ### Enforcement of copyright
 
@@ -306,4 +306,4 @@ email to info@sladewatkins.com.
 
 If you become aware of any material on the website that you believe infringes
 your or any other person’s copyright, please report this by email
-to info@sladewatkins.com. We will respond within 48 hours.
+to [info@sladewatkins.com](mailto:info@sladewatkins.com). We will respond within 48 hours.
