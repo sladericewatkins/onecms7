@@ -3,6 +3,8 @@ layout: page
 title: Website Licenses - MIT License
 ---
 
+A [copy of this file](https://github.com/sladewatkins/website/blob/master/LICENSE-MIT) is included in the project's repository.
+
 ```
 MIT License
 
