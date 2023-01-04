@@ -3,6 +3,8 @@ layout: page
 title: Website Licenses - CC-BY-SA-4.0
 ---
 
+A [copy of this file](https://github.com/sladewatkins/website/blob/master/LICENSE-CC-BY-SA-4.0) is included in the project's repository.
+
 ```
 Attribution-ShareAlike 4.0 International
 
