@@ -8,11 +8,20 @@ Testing your revisions is really important, as when you launch a test server, yo
 This guide is written for macOS and can be loosely applied to Linux as well. If you use Windows, you're on your own.
 
 ## Prerequisites
-You'll need [Homebrew](https://brew.sh) installed *before going any further*. Once you've installed it, run the following command in Terminal:
+You'll need [Homebrew](https://brew.sh) installed *before going any further*. Once you've installed it, you'll need to install ``node`` and ``yarn`` on your system.
 
+You can do so by running:
+
+```
+brew install node
+brew install yarn
+```
+
+Then, install ``bridgetown`` by running:
 ```
 gem install bridgetown -N
 ```
+*Don't worry, OneCMS runs on top of Bridgetown's upstream repository (for now) so you're all set. In the future, versioning may be handled by a separate gem.*
 
 And you're set. Now you can...
 
