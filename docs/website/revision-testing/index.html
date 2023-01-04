@@ -8,7 +8,7 @@
   Website - Revision Testing | Slade Rice Watkins</title>
 
 <meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
-<meta name="generator" content="OneCMS 7.0.22 based on Bridgetown 1.1.0 - January 3, 2023" />
+<meta name="generator" content="OneCMS 7.1.0 based on Bridgetown 1.1.0 - January 4, 2023" />
 <meta name="turbo-cache-control" content="no-preview" />
 <link type="application/atom+xml" rel="alternate" href="https://www.sladewatkins.com/feed.xml" title="Slade Rice Watkins" />
 
@@ -28,7 +28,7 @@
 <link rel="icon" data-turbo-track="reload" href="/favicon.ico" type="image/x-icon" />
 
 <link rel="stylesheet" data-turbo-track="reload" href="/_bridgetown/static/index.J5BJVY6L.css" />
-<script data-turbo-track="reload" src="/_bridgetown/static/index.MHSVGZBM.js" defer></script>
+<script data-turbo-track="reload" src="/_bridgetown/static/index.3OCSBHB5.js" defer></script>
 <script type="module">let lastmod = 0
 function startReloadConnection() {
   const evtSource = new EventSource("/_bridgetown/live_reload")
@@ -82,10 +82,18 @@ setTimeout(() => {
 <p>This guide is written for macOS and can be loosely applied to Linux as well. If you use Windows, you’re on your own.</p>
 
 <h2 id="prerequisites">Prerequisites</h2>
-<p>You’ll need <a href="https://brew.sh">Homebrew</a> installed <em>before going any further</em>. Once you’ve installed it, run the following command in Terminal:</p>
+<p>You’ll need <a href="https://brew.sh">Homebrew</a> installed <em>before going any further</em>. Once you’ve installed it, you’ll need to install <code class="highlighter-rouge">node</code> and <code class="highlighter-rouge">yarn</code> on your system.</p>
 
+<p>You can do so by running:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew install node
+brew install yarn
+</code></pre></div></div>
+
+<p>Then, install <code class="highlighter-rouge">bridgetown</code> by running:</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem install bridgetown -N
 </code></pre></div></div>
+<p><em>Don’t worry, OneCMS runs on top of Bridgetown’s upstream repository (for now) so you’re all set. In the future, versioning may be handled by a separate gem.</em></p>
 
 <p>And you’re set. Now you can…</p>
 
