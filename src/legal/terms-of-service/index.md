@@ -3,22 +3,20 @@ layout: page
 title: Terms of Service
 ---
 
-Updated November 24, 2022
+Terms of Service
+Updated January 3, 2023
 
-## Introduction
+# Introduction
 
-These terms and conditions (“Terms”) govern your use of Slade Rice Watkins
-(“SRW”, “Website”, “Services”); by using this website, you accept these terms
-and conditions in full. If you disagree with these terms and conditions or any
-part of these terms and conditions, you must not use this website.
+These terms and conditions (“Terms”) govern your use of Slade Rice Watkins's 
+("Our", "We", "Us", “Website”, "Services") offerings. By using our Website, you 
+accept these terms and conditions in full. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website.
 
-## Cookies
+# Cookies
 
-By using this website and agreeing to these Terms, you consent to our Slade
-Rice Watkins’s use of cookies, in accordance with the terms of Slade Rice
-Watkins’s Privacy Policy.
+By using this website and agreeing to these Terms, you consent to Our use of cookies, in accordance with the terms of Our Privacy Policy.
 
-## License to use website
+# License to use website
 
 Unless otherwise stated, Slade Rice Watkins and/or its licensors own the
 intellectual property rights on the Website, as well as the material displayed
@@ -42,7 +40,7 @@ You are free to embed, display, or otherwise utilize the content on this
 Website for educational or informational purposes, so long as it is
 non-commercial.
 
-## Acceptable use
+# Acceptable use
 
 You must not use this website in any way that causes, or may cause, damage to
 the website or impairment of the availability or accessibility of the website;
@@ -64,20 +62,20 @@ You must not use this website to transmit or send unsolicited commercial
 communications.
 
 You must not use this website for any purposes related to marketing without
-Slade Rice Watkins’s express written consent.
+Our express written consent.
 
 ## Restricted access
 
 Slade Rice Watkins reserves the right to restrict access to any areas of this
-website, or indeed this entire website, at Slade Rice Watkins’s discretion.
+website, or indeed this entire website, at Our discretion.
 
-If Slade Rice Watkins provides you with a user ID and password (“Account”) to
+If We provide you with a user ID and password (“Account”) to
 enable you to access restricted areas of this Website, other content, or
 Services, you must ensure that the user ID and password are kept confidential.
 Information about your Account and information regarding your specific use of
-our Website is encrypted by our servers and your browser. 
+our Website is encrypted by Our servers and your browser. 
 
-We reserve the right to terminate your Account, at our sole discretion, with
+We reserve the right to terminate your Account, at Our sole discretion, with
 or without notice.
 
 You may not share your Account with anyone other than yourself.
@@ -91,7 +89,7 @@ In these Terms, your user content means material (including without limitation
 text, images, audio material, video material and audio-visual material) that
 you submit to this website, for whatever purpose.
 
-You grant to Slade Rice Watkins a worldwide, irrevocable, non-exclusive,
+You hereby grant to Slade Rice Watkins a worldwide, irrevocable, non-exclusive,
 royalty-free license to use, reproduce, adapt, publish, translate, and/or
 distribute your user content in any existing or future media.  You also grant
 to Slade Rice Watkins the right to sub-license these rights, and the right to
@@ -140,9 +138,9 @@ Slade Rice Watkins will not be liable to you (whether under the law of
 contact, the law of torts or otherwise) in relation to the contents of, or use
 of, or otherwise in connection with, this website:
 
-    to the extent that the website is provided free-of-charge, for any direct loss;
-    for any indirect, special or consequential loss; or
-    for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.
+- to the extent that the website is provided free-of-charge, for any direct loss;
+- for any indirect, special or consequential loss; or
+- for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.
 
 These limitations of liability apply even if Slade Rice Watkins has been
 expressly advised of the potential loss.
@@ -165,7 +163,7 @@ liability set out in this website disclaimer are reasonable.
 
 If you do not think they are reasonable, you must not use this website.
 
-## Other parties
+# Other parties
 
 You accept that, as a limited liability entity, Slade Rice Watkins has an
 interest in limiting the personal liability of its officers and employees.
@@ -178,13 +176,13 @@ of warranties and liability set out in this website disclaimer will protect
 Slade Rice Watkins’s officers, employees, agents, subsidiaries, successors,
 assigns and sub-contractors as well as Slade Rice Watkins.
 
-## Unenforceable provisions
+# Unenforceable provisions
 
 If any provision of this website disclaimer is, or is found to be,
 unenforceable under applicable law, that will not affect the enforceability of
 the other provisions of this website disclaimer.
 
-## Indemnity
+# Indemnity
 
 You hereby indemnify Slade Rice Watkins and undertake to keep Slade Rice
 Watkins indemnified against any losses, damages, costs, liabilities and
@@ -195,7 +193,7 @@ Rice Watkins arising out of any breach by you of any provision of these Terms,
 [or arising out of any claim that you have breached any provision of these
 Terms].
 
-## Breaches of these Terms
+# Breaches of these Terms
 
 Without prejudice to Slade Rice Watkins’s other rights under these Terms, if
 you breach these Terms in any way, Slade Rice Watkins may take such action as
@@ -205,14 +203,14 @@ website, blocking computers using your IP address from accessing the website,
 contacting your internet service provider to request that they block your
 access to the website and/or bringing court proceedings against you.
 
-## Variation
+# Variation
 
 Slade Rice Watkins may revise these Terms from time-to-time with or without
 notice. Revised Terms will apply to the use of this website from the date of
 the publication of the revised Terms on this website. Please check this page
 regularly to ensure you are familiar with the current version.
 
-## Assignment
+# Assignment
 
 Slade Rice Watkins may transfer, sub-contract or otherwise deal with Slade
 Rice Watkins’s rights and/or obligations under these Terms without notifying
@@ -221,7 +219,7 @@ you or obtaining your consent.
 You may not transfer, sub-contract or otherwise deal with your rights and/or
 obligations under these Terms.
 
-## Severability
+# Severability
 
 If a provision of these Terms is determined by any court or other competent
 authority to be unlawful and/or unenforceable, the other provisions will
@@ -229,13 +227,13 @@ continue in effect. If any unlawful and/or unenforceable provision would be
 lawful or enforceable if part of it were deleted, that part will be deemed to
 be deleted, and the rest of the provision will continue in effect.
 
-## Entire agreement
+# Entire agreement
 
 These Terms constitute the entire agreement between you and Slade Rice Watkins
 in relation to your use of this website and supersede all previous agreements
 in respect of your use of this website.
 
-## Law and jurisdiction
+# Law and jurisdiction
 
 These Terms will be governed by and construed in accordance with United States
 law, and any disputes relating to these Terms will be subject to the
@@ -246,27 +244,26 @@ Slade Rice Watkins’s details:
 
 - The site owner's full name is Slade Watkins.
 - Slade Watkins is located in the United States of America. We abide by US law.
-- You can contact Slade Rice Watkins by emailing info@sladewatkins.com.
+- You can contact Slade Rice Watkins by emailing [info@sladewatkins.com](mailto:info@sladewatkins.com).
 
-## OFFICIAL COPYRIGHT NOTICE
+# OFFICIAL COPYRIGHT NOTICE
 
-Copyright © 2018-2022, Slade Rice Watkins
+Copyright © 2018-2023, Slade Rice Watkins
 
-### Ownership of copyright
+## Ownership of copyright
 
 The copyright in this website and the material on this website (including
 without limitation the text, computer code, artwork, photographs, images,
 music, audio material, video material and audio-visual material on this
 website) is owned by Slade Rice Watkins and its licensors.
 
-### Copyright license
+## Copyright license
 
 Slade Rice Watkins grants to you a worldwide non-exclusive, royalty-free, and
 revocable license to:
 
 - view this website and the material on this website on a computer or mobile device via a web browser
-- copy and store this website and the material on this website in your web browser
-- cache memory; and
+- copy and store this website and the material on this website in your web browser, cache memory; and
 - print pages from this website for your own personal, educational, informational and/or non-commercial use.
 
 Slade Rice Watkins does not grant you any other rights in relation to this
@@ -279,17 +276,17 @@ or play in public this website or the material on this website (in any form or
 media) for commercial purposes without Slade Rice Watkins’s prior written
 permission.
 
-### Data mining
+# Data mining
 
 The automated and/or systematic collection of data from this website is
 prohibited.
 
-### Permissions
+# Permissions
 
 You may request permission to use the copyright materials on this website by
-writing to [info@sladewatkins.com](mailto:info@sladewatkins.com).
+writing to [info@sladewatkins.com](mailto:info@sladewatkins.com).
 
-### Enforcement of copyright
+# Enforcement of copyright
 
 Slade Rice Watkins takes the protection of its copyright very seriously.
 
@@ -300,10 +297,10 @@ using those materials. You could also be ordered to pay legal costs.
 
 If you become aware of any use of Slade Rice Watkins’s copyright materials
 that contravenes or may contravene the license above, please report this by
-email to info@sladewatkins.com.
+email to [info@sladewatkins.com](mailto:info@sladewatkins.com).
 
-### Infringing material
+## Infringing material
 
 If you become aware of any material on the website that you believe infringes
 your or any other person’s copyright, please report this by email
-to [info@sladewatkins.com](mailto:info@sladewatkins.com). We will respond within 48 hours.
+to [info@sladewatkins.com](mailto:info@sladewatkins.com). We will respond within 48 hours.
