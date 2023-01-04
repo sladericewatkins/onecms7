@@ -5,7 +5,7 @@ title: Website Contributor License Agreement (CLA)
 
 Okay, we'll keep the legalese to a minimum. This CLA is written for people to easily understand, no complicated language, no redundancy. Just a simple agreement.
 
-A copy of this CLA ([in plain-text form](https://github.com/sladewatkins/website/blob/master/CLA)) will be included in and distributed with the repository, as well as on the Website itself, beginning in December 2022.
+A [copy of this file](https://github.com/sladewatkins/website/blob/master/CLA) is included in the project's repository.
 
 ---
 
