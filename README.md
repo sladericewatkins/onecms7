@@ -12,7 +12,7 @@ The tweaks and changes from Bridgetown 1.1.0 include:
 	- **Compatibility**: Since OneCMS 7+ is a fork of Bridgetown, it is compatible with all of its plugins and other add-ons. It is also able to rebased on to the latest versions of the upstream repository.
 
 ## Licensing
-I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/textLICENSE).)
+I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE-MIT). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/LICENSE-CC-BY-SA-4.0).)
 
 ## Production assets
 The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository contains the production assets served to the public on [sladewatkins.com](https://www.sladewatkins.com).
