@@ -19,6 +19,7 @@ You're probably trying to reach me for a specific reason. Well, select the optio
 ### Misc.
 - [🕸️ Joining a YouTube MCN](https://www.sladewatkins.com/contact/mcn/)
 - [🥸 Report fake accounts](https://www.sladewatkins.com/contact/fakes/)
+- [💬 Social media](https://www.sladewatkins.com/links)
 - [📧 Anything else](https://www.sladewatkins.com/contact/other/)
 
 ## Please note
