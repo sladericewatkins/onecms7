@@ -1,7 +1,6 @@
 @media (max-width: 500px) {
     padding: 16px 16px 50px;
   }
-}
 
 @media (prefers-color-scheme: light) {
 :root {
@@ -90,7 +89,7 @@ hr {
 :root {
   --body-background: #2e2e2e;
   --body-color: #e0e0e0;
-  --heading-color: white;
+  --heading-color: #fff;
   --action-color: #8f292d;
 }
 
