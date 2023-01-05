@@ -19,4 +19,4 @@ You're probably wondering why I have a Reddit account then... well, for one, it'
 
 This page is here so that if you Google my name with "Reddit" or "subreddit", it comes up. **Please do not set up any subreddits, accounts, or whatever else in my name.** This includes unofficial subreddits and/or accounts, parody subreddits and/or accounts, or whatever I might be forgetting to list here. **Just don't.** ***I will not hesitate to take action, through Reddit Support or legal action, if applicable.*** Thanks!
 
-If you spot a* potential fake subreddit or user account out there*, please [get in touch with me and my team](/contact/fakes/)!
+If you spot a* potential fake subreddit or user account out there*, please [get in touch with me and my team](https://www.sladewatkins.com/contact/fakes/)!

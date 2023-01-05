@@ -30,4 +30,4 @@ And here’s what I’ve changed so far…
 
 I plan to update this article as I continue changing my workflow over to open source alternatives. I expect to be fully switched over to mostly open-source projects by February 6, 2023.
 
-Feel free to hit me up and ask questions about it! I usually hang out on [Mastodon (@slade@pope.party)](https://pope.party/@slade), but I can also be found [everywhere else](https://meta.slade.link) too (including [email](/contact/)).
+Feel free to hit me up and ask questions about it! I usually hang out on [Mastodon (@slade@pope.party)](https://pope.party/@slade), but I can also be found [everywhere else](https://meta.slade.link) too (including [email](https://www.sladewatkins.com/contact/)).

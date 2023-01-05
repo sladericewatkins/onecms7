@@ -19,4 +19,4 @@ That being said, this page is here so that if you Google my name with "Discord",
 
 Thanks for understanding.
 
-If you spot a potential fake server or account out there, please [get in touch with me and my team](/contact/fakes/)!
+If you spot a potential fake server or account out there, please [get in touch with me and my team](https://www.sladewatkins.com/contact/fakes/)!

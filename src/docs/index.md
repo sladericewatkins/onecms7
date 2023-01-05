@@ -7,5 +7,5 @@ Welcome to the Documentation microsite. This microsite contains documentation fo
 
 ## What's here
 You can select a project from the list below to see its documentation.
-- [Git](/docs/git/) - The documentation for how you should use ``git`` to contribute to my repositories.
-- [Website](/docs/website/) - The documentation for this website and the engine behind it, *OneCMS*, which is based on *[Bridgetown](https://github.com/bridgetownrb/bridgetown)*.
+- [Git](https://www.sladewatkins.com/docs/git/) - The documentation for how you should use ``git`` to contribute to my repositories.
+- [Website](https://www.sladewatkins.com/docs/website/) - The documentation for this website and the engine behind it, *OneCMS*, which is based on *[Bridgetown](https://github.com/bridgetownrb/bridgetown)*.
