@@ -36,4 +36,4 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 - Graduated High School, NYS Regents Diploma — June 2021
 
 ## Want to learn more about me?
-Consider [getting in touch](/contact/) or see [my FAQ page](/faq/).
+Consider [getting in touch](https://www.sladewatkins.com/contact/) or see [my FAQ page](https://www.sladewatkins.com/faq/).
