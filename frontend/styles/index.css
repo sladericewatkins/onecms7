@@ -24,7 +24,7 @@ body {
 a {
   color: var(--action-color);
   text-decoration: underline;
-  text-decoration-color: #ffb088;
+  text-decoration-color: #c4393e;
 }
 
 h1 {
@@ -90,7 +90,7 @@ hr {
   --body-background: #2e2e2e;
   --body-color: #e0e0e0;
   --heading-color: #fff;
-  --action-color: #8f292d;
+  --action-color: #d64045;
 }
 
 body {
@@ -107,7 +107,7 @@ body {
 a {
   color: var(--action-color);
   text-decoration: underline;
-  text-decoration-color: #ffb088;
+  text-decoration-color: #9e2e32;
 }
 
 h1 {
