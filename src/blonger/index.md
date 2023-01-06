@@ -11,4 +11,4 @@ title: Blo(n)g(er)
   {% endfor %}
 </ul>
 
-Meta: <a href="{{ '/feed.xml' | relative_url }}">📰 RSS Feed</a> &bull; <a href="https://pope.party/@blonger">📣 @blonger@pope.party</a>
+Meta: <a href="https://www.sladewatkins.com/feed.xml">📰 RSS Feed (direct)</a> &bull; <a href="https://feeds.feedburner.com/sladewatkins/blonger">📰 RSS Feed (Feedburner)</a>
