@@ -14,15 +14,15 @@ The tweaks and changes from Bridgetown 1.1.0 include:
 ## Licensing
 I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/LICENSE-CC-BY-SA-4.0).)
 
-## Production assets
-The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository contains the production assets served to the public on [sladewatkins.com](https://www.sladewatkins.com).
-
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
 
 TL:DR: this simply requires a webserver, as well as support for Ruby and [Bridgetown](https://www.bridgetownrb.com/) (if hosting locally for development), and it DOESN'T REQUIRE SQL/Database servers of any kind. Yay!
 
-## The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch
+### Production assets
+The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository contains the production assets served to the public on [sladewatkins.com](https://www.sladewatkins.com).
+
+### The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch
 The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch is special - that's where all commits set to roll out to production ("master" branch) need to sit and be tested by Slade's Continous Integration (CI) system + a few of his physical systems. This is to ensure no issues are found and things keep going smoothly.
 
 ## Find an issue?
