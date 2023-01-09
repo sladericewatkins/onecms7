@@ -27,3 +27,5 @@ This list is unsorted.
 - [Blo(n)g(er) RSS](https://www.sladewatkins.com/feed.xml)
 - [Sitemap XML](https://www.sladewatkins.com/sitemap.xml)
 - [WebFinger](https://www.sladewatkins.com/.well-known/webfinger)
+- [NodeInfo](https://www.sladewatkins.com/.well-known/nodeinfo)
+- [Host-Meta](https://www.sladewatkins.com/.well-known/host-meta)
