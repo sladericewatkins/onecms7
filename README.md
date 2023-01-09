@@ -14,6 +14,15 @@ The tweaks and changes from Bridgetown 1.1.0 include:
 ## Licensing
 I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/LICENSE-CC-BY-SA-4.0).)
 
+## Maintaining the codebase
+The two most recent point releases of OneCMS are maintained, with the oldest supported release getting vital security updates **only**.
+
+Currently maintained releases:
+- [7.1.y (current)](https://github.com/sladewatkins/website/tree/master)
+- [7.0.y](https://github.com/sladewatkins/website/tree/version-7.0.y)
+
+Versions prior to the above are End-Of-Life and are no longer supported.
+
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
 
