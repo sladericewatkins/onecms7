@@ -3,6 +3,7 @@
 
 This is the source code for SladeWatkins.com, it's largely what makes my website tick. It's built on top of [Bridgetown](https://github.com/bridgetownrb/bridgetown) and mostly follows upstream, though has a couple tweaks specific to the environments I run it in.
 
+## Differences between OneCMS and Bridgetown
 The tweaks and changes from Bridgetown 1.1.0 include:
 - custom integrations with local CI... self explanatory.
 - support for Ruby 3.1.y out of the box.
