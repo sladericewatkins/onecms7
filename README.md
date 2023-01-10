@@ -15,15 +15,6 @@ The tweaks and changes from Bridgetown 1.1.0 include:
 ## Licensing
 I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/LICENSE-CC-BY-SA-4.0).)
 
-## Maintaining the codebase
-The two most recent point releases of OneCMS are maintained, with the oldest supported release getting vital security updates **only**.
-
-Currently maintained releases:
-- [7.1.y (current)](https://github.com/sladewatkins/website/tree/master)
-- [7.0.y](https://github.com/sladewatkins/website/tree/version-7.0.y)
-
-Versions prior to the above are End-Of-Life and are no longer supported.
-
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
 
@@ -32,11 +23,22 @@ TL:DR: this simply requires a webserver, as well as support for Ruby and [Bridge
 ### Production assets
 The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree within this repository contains the production assets served to the public on [sladewatkins.com](https://www.sladewatkins.com).
 
+## Maintaining the codebase
+OneCMS/Slade's website is maintained and updated regularly to ensure it is up-to-date, accurate, and of course: secure.
+
 ### The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch
 The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch is special - that's where all commits set to roll out to the latest OneCMS release and production website ("master" branch) need to sit and be tested by Slade's Continous Integration (CI) system + a few of his physical systems. This is to ensure no issues are found and things keep going smoothly.
 
+For documentation regarding how dependencies are upgraded within OneCMS/this repository, see [the documentation](https://www.sladewatkins.com/docs/website/updating-onecms-dependencies/).
 
-For documentation regarding how dependencies are upgraded within OneCMS/this repository, see [the documentation](https://www.sladewatkins.com/docs/website/updating-onecms-dependencies/)
+### Version support
+The two most recent point releases of OneCMS are maintained, with the oldest supported release getting vital security updates **only**.
+
+Currently maintained releases:
+- [7.1.y (current)](https://github.com/sladewatkins/website/tree/master)
+- [7.0.y](https://github.com/sladewatkins/website/tree/version-7.0.y)
+
+Versions prior to the above are End-Of-Life and are no longer supported.
 
 ## Find an issue?
 If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website/) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/website/pulls) directed to the [``staging``](https://github.com/sladewatkins/website/tree/staging) branch! I'll take a look at it and might merge it in. (Note: all PRs sent to the ``master`` branch won't be considered. Commits must target ``staging``, see [the documentation here](https://www.sladewatkins.com/docs/website/how-staging-works/) for more details.)
