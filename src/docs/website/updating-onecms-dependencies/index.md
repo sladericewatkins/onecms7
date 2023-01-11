@@ -16,11 +16,12 @@ yarn upgrade
 ```
 
 ## What it does now
+The following command...
 
 ```
 bin/bridgetown webpack update
 ```
 
-All it does is revert the webpack back to what was initially forked from Bridgetown (upstream) in 2022. Since OneCMS aims to have more up-to-date dependencies than upstream, it does not make since to officially sanction this command for version upgrades.
+...reverts the webpack back to what was initially forked from Bridgetown (upstream) in 2022. Since OneCMS aims to have more up-to-date dependencies than upstream, it does not make since to officially sanction this command for version upgrades.
 
 All commits that utilize either of the commands (the deprecated ``bin/bridgetown webpack update`` or officially sanctioned ``yarn upgrade``)
