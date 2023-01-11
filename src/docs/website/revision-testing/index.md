@@ -35,4 +35,4 @@ Then, run the following command to start the internal server included with Bridg
 bin/bridgetown start
 ```
 
-And you now have a replica of this website running at [localhost:4000](http://localhost:4000). Use this server to test your revisions.
+And you now have a replica of this website running at [localhost:4000](http://localhost:4000). Use this local server to test your revisions.
