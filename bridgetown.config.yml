@@ -17,7 +17,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-url: "https://www.sladewatkins.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.sladewatkins.com"
 permalink: simple
 template_engine: liquid
 timezone: America/New_York
@@ -34,4 +34,9 @@ pagination:
 
 development:
   unpublished: true
+  
+collections:
+  writing:
+    output: true
+    future: false
   
