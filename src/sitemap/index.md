@@ -23,7 +23,7 @@ This list is sorted **alphabetically**.
 - [Writing](https://www.sladewatkins.com/writing/)
 
 ## Metadata & Endpoints
-This list is unsorted.
+This list is **unsorted**.
 
 - [Blo(n)g(er) RSS](https://www.sladewatkins.com/feed.xml)
 - [Sitemap XML](https://www.sladewatkins.com/sitemap.xml)
