@@ -20,6 +20,7 @@ This list is sorted **alphabetically**.
 - [Setup/Equipment](https://www.sladewatkins.com/setup/)
 - Sitemap (this page)
 - [SpaceHey](https://www.sladewatkins.com/spacehey/)
+- [Writing](https://www.sladewatkins.com/writing/)
 
 ## Metadata & Endpoints
 This list is unsorted.
