@@ -8,7 +8,7 @@
   Website - Updating OneCMS dependencies | Slade Rice Watkins</title>
 
 <meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
-<meta name="generator" content="OneCMS 7.1.12 based on Bridgetown 1.1.0 - January 10, 2023" />
+<meta name="generator" content="OneCMS 7.1.13 based on Bridgetown 1.1.0 - January 11, 2023" />
 <meta name="color-scheme" content="dark light" />
 <meta name="turbo-cache-control" content="no-preview" />
 <link type="application/atom+xml" rel="alternate" href="https://www.sladewatkins.com/feed.xml" title="Slade Rice Watkins" />
@@ -29,7 +29,7 @@
 <link rel="icon" data-turbo-track="reload" href="/favicon.ico" type="image/x-icon" />
 
 <link rel="stylesheet" data-turbo-track="reload" href="/_bridgetown/static/index.LSJLGC77.css" />
-<script data-turbo-track="reload" src="/_bridgetown/static/index.N6MMRSMY.js" defer></script>
+<script data-turbo-track="reload" src="/_bridgetown/static/index.JQZF6KZ5.js" defer></script>
 <script type="module">let lastmod = 0
 function startReloadConnection() {
   const evtSource = new EventSource("/_bridgetown/live_reload")
@@ -90,11 +90,12 @@ setTimeout(() => {
 </code></pre></div></div>
 
 <h2 id="what-it-does-now">What it does now</h2>
+<p>The following command…</p>
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bin/bridgetown webpack update
 </code></pre></div></div>
 
-<p>All it does is revert the webpack back to what was initially forked from Bridgetown (upstream) in 2022. Since OneCMS aims to have more up-to-date dependencies than upstream, it does not make since to officially sanction this command for version upgrades.</p>
+<p>…reverts the webpack back to what was initially forked from Bridgetown (upstream) in 2022. Since OneCMS aims to have more up-to-date dependencies than upstream, it does not make since to officially sanction this command for version upgrades.</p>
 
 <p>All commits that utilize either of the commands (the deprecated <code class="highlighter-rouge">bin/bridgetown webpack update</code> or officially sanctioned <code class="highlighter-rouge">yarn upgrade</code>)</p>
 
