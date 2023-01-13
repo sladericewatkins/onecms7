@@ -9,7 +9,7 @@ When updating dependencies, be sure **not** to run the following command:
 bin/bridgetown webpack update
 ```
 
-OneCMS releases 7.1.11 and 7.0.30 **deprecate** the ``webpack update`` command and instead use the following commmand to manage updates:
+OneCMS releases ``7.1.11`` and ``7.0.30`` **deprecate** the ``webpack update`` command and instead use the following commmand to manage updates:
 
 ```
 yarn upgrade
