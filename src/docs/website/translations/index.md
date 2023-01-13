@@ -4,7 +4,7 @@ title: Website - Translations
 ---
 
 ## The main concern
-The main concern right now is that the way the site is structured prevents me from making translations possible. I'd have to rework the entire site. There exists [documentation](https://www.bridgetownrb.com/docs/internationalization#setup--translations) for how to get translations up and running with *Bridgetown*, so that'd be what is used as a base. 
+The main concern right now is that the way the site is structured prevents me from making translations possible. I'd have to rework the entire site. There exists [documentation](https://www.bridgetownrb.com/docs/internationalization#setup--translations) for how to get translations up and running with *Bridgetown*, which also applies to OneCMS.
 
 ## How can you help
 If you'd like to help, you can fork the repository and start pulling it apart. Translate the pages, documentation, etc., and send them up to ``staging`` as a pull request. 
