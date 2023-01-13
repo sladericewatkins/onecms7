@@ -16,4 +16,4 @@ Using the aforementioned [Bridgetown documentation](https://www.bridgetownrb.com
 - Spanish (es)
 - Japanese (ja-JP)
 
-But any language, frankly, would be great! (Since English is the primary language of the site owner (me), I've marked en-US as indefinitely complete.)
+But any language, frankly, would be great! [Here's a nonexhaustive list of languages and their respective tags.](https://r12a.github.io/app-subtags/) (Since English, en-US, is the primary language of the site owner (me), I've marked en-US and all variations such as en-GB as indefinitely complete.)
