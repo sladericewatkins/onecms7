@@ -11,3 +11,4 @@ The following is the documentation for this very website.
 3. [Revision Testing](https://www.sladewatkins.com/docs/website/revision-testing/)
 4. [Translations](https://www.sladewatkins.com/docs/website/translations/)
 5. [OneCMS Versioning](https://www.sladewatkins.com/docs/website/onecms-versioning/)
+6. [Updating OneCMS Dependencies](https://www.sladewatkins.com/docs/website/updating-onecms-dependencies/)
