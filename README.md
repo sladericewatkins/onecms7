@@ -45,5 +45,5 @@ If you find an issue, you might be able to patch it up yourself! Check out [the 
 
 If you'd prefer to just report it, please do so using the [issues tab](https://github.com/sladewatkins/website/issues).
 
-## Report security issues (live site)
-Though, for security issues relating to the server I use on sladewatkins.com directly, I ask you [reach out privately](https://www.sladewatkins.com/contact/).
+## Report security issues
+Please see the [SECURITY.md](https://github.com/sladewatkins/website/blob/master/SECURITY.md) file for more information on reporting security issues.
