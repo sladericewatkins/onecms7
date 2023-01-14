@@ -3,7 +3,7 @@ layout: page
 title: Writing
 paginate:
   collection: writing
-  per_page: 8
+  per_page: 12
 ---
 
 This is the home for my writing. For my thoughts on things, [check out Blo(n)g(er)](https://www.sladewatkins.com/blonger/).
