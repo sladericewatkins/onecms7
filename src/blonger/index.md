@@ -3,7 +3,7 @@ layout: page
 title: Blo(n)g(er)
 paginate:
   collection: posts
-  per_page: 8
+  per_page: 12
 ---
 
 <ul>
