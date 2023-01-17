@@ -9,9 +9,18 @@
 
 */
 
+@media (prefers-color-scheme: light) {
 pre.highlight {
   padding: 16px;
   background-color: #F6F8FA;
+}
+}
+
+@media (prefers-color-scheme: dark) {
+pre.highlight {
+  padding: 16px;
+  background-color: #575859;
+}
 }
 
 .highlight .hll { background-color: #ffffcc }
