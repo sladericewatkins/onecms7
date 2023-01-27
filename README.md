@@ -1,3 +1,10 @@
+# Notice
+This version is no longer supported. Please update to a newer version of OneCMS.
+
+This file has been updated independently of the final release to signal its end-of-life status.
+
+---
+
 # SladeWatkins.com
 [![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/website)](https://cla-assistant.io/sladewatkins/website) [![Deploy to Prod](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml)
 
@@ -30,15 +37,6 @@ OneCMS/Slade's website is maintained and updated regularly to ensure it is up-to
 The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch is special - that's where all commits set to roll out to the latest OneCMS release and production website ("master" branch) need to sit and be tested by Slade's Continous Integration (CI) system + a few of his physical systems. This is to ensure no issues are found and things keep going smoothly.
 
 For documentation regarding how dependencies are upgraded within OneCMS/this repository, see [the documentation](https://www.sladewatkins.com/docs/website/updating-onecms-dependencies/).
-
-### Version support
-The two most recent point releases of OneCMS are maintained, with the oldest supported release getting vital security updates **only**.
-
-Currently maintained releases:
-- [7.1.y (current)](https://github.com/sladewatkins/website/tree/master)
-- [7.0.y](https://github.com/sladewatkins/website/tree/version-7.0.y)
-
-Versions prior to the above are End-Of-Life and are no longer supported.
 
 ## Find an issue?
 If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website/) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/website/pulls) directed to the [``staging``](https://github.com/sladewatkins/website/tree/staging) branch! I'll take a look at it and might merge it in. (Note: all PRs sent to the ``master`` branch won't be considered. Commits must target ``staging``, see [the documentation here](https://www.sladewatkins.com/docs/website/how-staging-works/) for more details.)
