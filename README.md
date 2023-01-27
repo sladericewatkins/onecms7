@@ -35,8 +35,8 @@ For documentation regarding how dependencies are upgraded within OneCMS/this rep
 The two most recent point releases of OneCMS are maintained, with the oldest supported release getting vital security updates **only**.
 
 Currently maintained releases:
-- [7.1.y (current)](https://github.com/sladewatkins/website/tree/master)
-- [7.0.y](https://github.com/sladewatkins/website/tree/version-7.0.y)
+- [7.2.y (current)](https://github.com/sladewatkins/website/tree/master)
+- [7.1.y](https://github.com/sladewatkins/website/tree/version-7.0.y)
 
 Versions prior to the above are End-Of-Life and are no longer supported.
 
