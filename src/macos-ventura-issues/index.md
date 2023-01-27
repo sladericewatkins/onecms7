@@ -13,7 +13,7 @@ If you've run into an issue not listed here, please email me directly at [slade@
 Items are written in the following format: 
 
 ```
-[Version encountered in] "Description of issue"
+[Version encountered in, Application/function affected] "Description of issue"
 ```
 
 A source is also included if it wasn't encountered directly by me.
