@@ -11,6 +11,7 @@ I’m a developer, web designer, and content creator. Oh, and this is my website
 ## You might be looking for
 - [Frequently Asked Questions](https://www.sladewatkins.com/faq/)
 - [Documentation](https://www.sladewatkins.com/docs/)
+- [The Vault](https://vault.sladewatkins.com)
 - [Slade Watkins Media](https://media.sites.sladewatkins.com)
 
 ## Open Source
