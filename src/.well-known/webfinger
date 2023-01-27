@@ -1,9 +1,9 @@
 {
-    "subject":"acct:slade@pope.party",
+    "subject":"acct:sladewatkins@mastodon.social",
     "aliases":
     [
-        "https://pope.party/@slade",
-        "https://pope.party/users/slade"
+        "https://mastodon.social/@sladewatkins",
+        "https://mastodon.social/users/sladewatkins"
     ],
     "links":
     [
@@ -15,11 +15,11 @@
         {
             "rel":"self",
             "type":"application/activity+json",
-            "href":"https://pope.party/users/slade"
+            "href":"https://mastodon.social/@sladewatkins"
         },
         {
             "rel":"http://ostatus.org/schema/1.0/subscribe",
-            "template":"https://pope.party/authorize_interaction?uri={uri}"
+            "template":"https://mastodon.social/authorize_interaction?uri={uri}"
         }
     ]
 }
