@@ -6,7 +6,7 @@ This is the source code for SladeWatkins.com, it's largely what makes my website
 ## Differences between OneCMS and Bridgetown
 The tweaks and changes from Bridgetown include:
 - custom integrations with local CI... self explanatory.
-- support for Ruby 3.1.y out of the box.
+- support for Ruby ``3.1.y`` and ``3.2.y`` out of the box.
 - more up-to-date dependencies and assets than Bridgetown (upstream).
 - Netlify/DigitalOcean deployment integration (this is proprietary, for now, while the code is worked out). *Right now, this repository uses the gh-pages related action to send the output to the correct tree, then the CI checks out the latest prod-x-y (x being the date, and y being the time) tag, and uploads that to Netlify/DigitalOcean.*
 - Additionally, the versioning follows that of OneCMS. Prior to version 6, OneCMS was a proprietary content management system I had developed for use with several of my projects in 2020, then again in 2021-2022. It has since been replaced by version 7+, which is an open-source fork of [Bridgetown](https://github.com/bridgetownrb/bridgetown) and contained within *this very repository*.
