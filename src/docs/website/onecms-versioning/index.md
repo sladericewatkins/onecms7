@@ -9,4 +9,4 @@ Here's how the versioning system works for OneCMS:
 3. If the code contains new pages or additions to the website, but no other updates to the generation system were made, no ``MAJOR``/``MINOR``/``PATCH`` numbers are updated: it is considered the same release.
 4. If the code contains major updates to the base of the generation system, the ``MINOR`` number is updated by one, and ``PATCH`` number is reset.
 
-Versions of OneCMS prior to ``7.x`` are not based on Bridgetown and are **not** open source.
+**NOTE**: Versions of OneCMS prior to ``7.x`` are not based on Bridgetown and are **not** open source.
