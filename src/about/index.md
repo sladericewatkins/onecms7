@@ -17,7 +17,7 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 - Content Delivery Networks (CDNs)
 - HTML4+5
 - [PHP](https://www.php.net) (ver. 5.3+)
-- [Ruby](https://ruby-lang.org)
+- [Ruby](https://ruby-lang.org) (ver. 3.0+)
 - [Ruby on Rails](https://rubyonrails.org) (ver. 7.0+)
 - [MySQL](https://www.mysql.com/)
 - [PostgreSQL](https://www.postgresql.org/)
