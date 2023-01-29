@@ -36,7 +36,7 @@ As for where I stand? Well, the eagle-eyed among you have gotten in touch to ask
 Instead of dunking on Space Karen with everyone else, as easy as it is to do (yay, herd mentality!), I will be focusing my efforts on making the open web better for everyone. [Mastodon/the fediverse](https://pope.party/@slade) will be my new, primary home for the foreseeable future. I run my own instance of that and it's been a source of joy for me, exploring a technology that's relatively new in the grand scheme of the internet. I'd like to continue fueling joy instead of anxiety and doomscrolling; and hopefully someday, if at all possible, heal my relationship with Twitter.
 
 For those who'd like to come with me:
-- Mastodon/the fediverse: [@slade@pope.party](https://pope.party/@slade)
+- Mastodon/the fediverse: [@sladewatkins@mastodon.social](https://mastodon.social/@sladewatkins)
 - Elsewhere: [Linktree](https://linktr.ee/sladewatkins)
 
 Til then...  
