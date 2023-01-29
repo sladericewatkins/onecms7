@@ -213,3 +213,7 @@ hr {
 	  line-break: auto;
   }
 }
+
+.byline {
+	font-size: 18px;
+}
