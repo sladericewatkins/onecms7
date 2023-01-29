@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.title }}<br/>
-<span style="font-size: 18px;">📆 {{ page.data.date | date_to_string: "ordinal", "US" }}</span>
+<span class="byline">📆 {{ page.data.date | date_to_string: "ordinal", "US" }}</span>
 </h1>
 
 {{ content }}
