@@ -36,4 +36,4 @@ gem "bridgetown-feed", "~> 3.0", :group => :bridgetown_plugins
 
 gem "roda-turbo", "~> 1.0"
 
-gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
+gem "bridgetown-sitemap", "~> 2.0", :group => :bridgetown_plugins
