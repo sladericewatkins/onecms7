@@ -44,8 +44,8 @@ GEM
       bridgetown (>= 1.0.0.alpha5, < 2.0)
     bridgetown-paginate (1.2.0)
       bridgetown-core (= 1.2.0)
-    bridgetown-sitemap (1.2.0)
-      bridgetown (>= 1.0, < 2.0)
+    bridgetown-sitemap (2.0.0)
+      bridgetown (>= 1.2.0, < 2.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.0)
     erubi (1.12.0)
@@ -124,7 +124,7 @@ PLATFORMS
 DEPENDENCIES
   bridgetown (~> 1.2.0)
   bridgetown-feed (~> 2.1)
-  bridgetown-sitemap (~> 1.1)
+  bridgetown-sitemap (~> 2.0)
   puma (~> 6.0)
   roda-turbo (~> 1.0)
 
