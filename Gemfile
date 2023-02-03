@@ -32,8 +32,8 @@ gem "bridgetown", "~> 1.2.0"
 # (you can optionally limit this to the "development" group)
 gem "puma", "~> 6.0"
 
-gem "bridgetown-feed", "~> 3.0", :group => :bridgetown_plugins
-
 gem "roda-turbo", "~> 1.0"
 
 gem "bridgetown-sitemap", "~> 2.0", :group => :bridgetown_plugins
+
+gem "bridgetown-feed", "~> 3.0"
