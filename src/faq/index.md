@@ -15,7 +15,7 @@ Each version from v5 and prior has been archived, you can find them in their new
 - [v5](https://vault.sladewatkins.com/v5/)
 
 ## What phone do you daily drive?
-I daily drive both an [iPhone SE (2nd generation)](https://support.apple.com/kb/SP820?locale=en_US) *and* [Google Pixel 6](https://www.gsmarena.com/google_pixel_6-11037.php), both connected to [US Mobile](https://www.usmobile.com) (Verizon SIM/Warp 5G). I switch which one is in "lead" (read: "has my personal SIM card in it") pretty frequently. It's a bad habit, I know... but hey, it is what it is.
+I daily drive both an [iPhone 12](https://support.apple.com/kb/SP830) *and* [Google Pixel 6](https://www.gsmarena.com/google_pixel_6-11037.php), both connected to [US Mobile](https://www.usmobile.com) (Verizon SIM/Warp 5G). I switch which one is in "lead" (read: "has my personal SIM card in it") pretty frequently. It's a bad habit, I know... but hey, it is what it is.
 
 ## Can you develop my app?
 Sorry, but unfortunately, I'm many years removed from the mobile app development scene. **I do mess around with [Xcode](https://developer.apple.com/xcode/), but that's more as a hobby, and I'm by no means experienced.** I have to regularly ask others for guidance just to figure out the interface. 
