@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>
+  Website - Revision Testing | Slade Rice Watkins</title>
+
+<meta name="description" content="Slade is a web developer and content creator who makes stuff from time-to-time." />
+<meta name="generator" content="OneCMS 7.2.4 (based on Bridgetown), built on February 8, 2023" />
+<meta name="color-scheme" content="dark light" />
+<meta name="turbo-cache-control" content="no-preview" />
+<link type="application/atom+xml" rel="alternate" href="https://www.sladewatkins.com/feed.xml" title="Slade Rice Watkins" />
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.sladewatkins.com/">
+<meta property="og:title" content="Website - Revision Testing">
+<meta property="og:description" content="Slade is a web developer and content creator who makes stuff from time-to-time.">
+<meta property="og:image" content="https://www.sladewatkins.com/images/home.png">
+
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@sladewatkins">
+<meta property="twitter:url" content="https://www.sladewatkins.com/">
+<meta property="twitter:title" content="Website - Revision Testing">
+<meta property="twitter:description" content="Slade is a web developer and content creator who makes stuff from time-to-time.">
+<meta property="twitter:image" content="https://www.sladewatkins.com/images/home.png">
+
+<link rel="icon" data-turbo-track="reload" href="/favicon.ico" type="image/x-icon" />
+
+<link rel="stylesheet" data-turbo-track="reload" href="/_bridgetown/static/index.3H7SDIUU.css" />
+<script data-turbo-track="reload" src="/_bridgetown/static/index.ZD3ZKSUE.js" defer></script>
+<script type="module">let lastmod = 0
+function startReloadConnection() {
+  const evtSource = new EventSource("/_bridgetown/live_reload")
+  evtSource.onmessage = event => {
+    if (event.data == "reloaded!") {
+      location.reload()
+    } else {
+      const newmod = Number(event.data)
+      if (lastmod > 0 && newmod > 0 && lastmod < newmod) {
+        location.reload()
+      } else {
+        lastmod = newmod
+      }
+    }
+  }
+  evtSource.onerror = event => {
+    if (evtSource.readyState === 2) {
+      // reconnect with new object
+      evtSource.close()
+      console.warn("Live reload: attempting to reconnect in 3 seconds...")
+
+      setTimeout(() => startReloadConnection(), 3000)
+    }
+  }
+}
+setTimeout(() => {
+  startReloadConnection()
+}, 500)
+</script>
+  </head>
+  <body class="page ">
+    <header>
+<a title="Home" href="/"><img src="/images/home.png" style="width: 10%; height: 10%;" aria-hidden="true" aria-description="Slade Watkins wearing a cap and gown" alt="Slade Watkins wearing a cap and gown"/></a>
+</header>
+
+<nav>
+  <ul class="navigation">
+    <li><a title="Home" href="/">Home</a></li>
+    <li><a title="About" href="/about/">About</a></li>
+    <li><a title="Contact" href="/contact/">Contact</a></li>
+    <li><a title="Blo(n)g(er)" href="/blonger/">Blo(n)g(er)</a></li>
+    <li><a title="Sitemap" href="/sitemap/">Sitemap</a></li>
+  </ul>
+</nav>
+
+    <main>
+      <h1>Website - Revision Testing</h1>
+
+<p>Testing your revisions is really important, as when you launch a test server, you’ll know immediately if you broke something (and potentially what you broke, as well).</p>
+
+<p>This guide is written for macOS and can be loosely applied to Linux as well. If you use Windows, you’re on your own.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>You’ll need <a href="https://brew.sh">Homebrew</a> installed <em>before going any further</em>. Once you’ve installed it, you’ll need to install <code class="highlighter-rouge">node</code> and <code class="highlighter-rouge">yarn</code> on your system.</p>
+
+<p>You can do so by running:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew install node
+brew install yarn
+</code></pre></div></div>
+
+<p>Then, install <code class="highlighter-rouge">bridgetown</code> by running:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem install bridgetown -N
+</code></pre></div></div>
+<p><em>Don’t worry, OneCMS runs on top of Bridgetown’s upstream repository (for now) so you’re all set. In the future, versioning may be handled by a separate gem.</em></p>
+
+<p>And you’re set. Now you can…</p>
+
+<h2 id="get-going-for-the-first-time">Get going for the first time</h2>
+<p>First, start by cloning the <a href="https://github.com/sladewatkins/website">sladewatkins/website</a> repository from GitHub using <code class="highlighter-rouge">git</code>. <strong>Make sure you do this in the parent directory where you’d like the files to be stored.</strong></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/sladewatkins/website.git
+</code></pre></div></div>
+
+<p>Then, use <code class="highlighter-rouge">cd</code> to enter the directory you just created.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd website
+</code></pre></div></div>
+
+<p>Then, run the following command to start the internal server included with Bridgetown:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bin/bridgetown start
+</code></pre></div></div>
+
+<p>And you now have a replica of this website running at <a href="http://localhost:4000">localhost:4000</a>. Use this local server to test your revisions.</p>
+
+
+    </main>
+
+    <footer>
+  <p><b>&copy; 2010-2023 Slade Watkins; <a href="https://www.sladewatkins.com/legal/licenses/">some rights reserved</a>.</b><br/>
+  A production of <a href="https://media.sites.sladewatkins.com">Slade Watkins Media</a>.<br/>
+  <b>Legal</b>: <a href="https://www.sladewatkins.com/legal/terms-of-service/">Terms of Service</a> &mdash; <a href="https://www.sladewatkins.com/legal/privacy-policy/">Privacy Policy</a><br><span style="font-size: 12px;">OneCMS 7.2.4 &bull; February 8, 2023</span></p>
+  <a style="display: none;" rel="me" href="https://mastodon.social/@sladewatkins">Mastodon</a>
+</footer>
+  </body>
+</html>
