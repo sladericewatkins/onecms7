@@ -27,6 +27,8 @@ Sorry, but unfortunately, I'm many years removed from the mobile app development
 
 Nowadays, I'm focused on web and computer software and I'm content with that.
 
+*Xcode is a trademark of Apple Inc., registered in the U.S. and other countries and regions.*  
+
 ## Will you ever return to mobile app development?
 Yes, it's on my list of things I'd like to do! Perhaps it'll become my full-time "actual" job? I feel a calling there. Right now, I'm actually testing several apps for folks and giving feedback. So we'll see what happens!
 
