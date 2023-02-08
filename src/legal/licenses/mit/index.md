@@ -8,7 +8,7 @@ A [copy of this file](https://github.com/sladewatkins/website/blob/master/LICENS
 ```
 MIT License
 
-Copyright (c) 2022-present Slade Rice Watkins and contributors
+Copyright (c) 2022-present Slade Rice Watkins and OneCMS contributors
 Copyright (c) 2020-present Jared White and Bridgetown contributors
 Copyright (c) 2008-2020 Tom Preston-Werner and Jekyll contributors
 
