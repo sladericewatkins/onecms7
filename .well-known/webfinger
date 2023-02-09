@@ -10,7 +10,7 @@
         {
             "rel":"http://webfinger.net/rel/profile-page",
             "type":"text/html",
-            "href":"https://pope.party/@slade"
+            "href":"https://mastodon.social/@sladewatkins"
         },
         {
             "rel":"self",
