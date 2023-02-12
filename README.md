@@ -1,5 +1,5 @@
 # SladeWatkins.com
-[![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/website)](https://cla-assistant.io/sladewatkins/website) [![Deploy to Prod](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/website/actions/workflows/gh-pages.yml)
+[![CLA assistant](https://cla-assistant.io/readme/badge/sladewatkins/onecms7)](https://cla-assistant.io/sladewatkins/onecms7) [![Deploy to Prod](https://github.com/sladewatkins/onecms7/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/sladewatkins/onecms7/actions/workflows/gh-pages.yml)
 
 This is the source code for SladeWatkins.com, it's largely what makes my website tick. It's built on top of [Bridgetown](https://github.com/bridgetownrb/bridgetown) and mostly follows upstream, though has a couple tweaks specific to the environments I run it in.
 
@@ -13,7 +13,7 @@ The tweaks and changes from Bridgetown include:
 	- **Compatibility**: Since OneCMS 7+ is a fork of Bridgetown, it is mostly compatible with all of its plugins and other add-ons. It is also able to rebased on to the latest versions of the upstream repository.
 
 ## Licensing
-I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/website/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/website/blob/master/LICENSE-CC-BY-SA-4.0).)
+I've open sourced OneCMS 7+ under the [MIT License](https://github.com/sladewatkins/onecms7/blob/master/LICENSE). (Do note that my blog and site text are licensed under the [CC-BY-SA-4.0 license](https://github.com/sladewatkins/onecms7/blob/master/LICENSE-CC-BY-SA-4.0).)
 
 ## About this site
 I'm building this site to be database-free, no SQL of any kind to be found. I hate working with SQL (and maintaining those servers) and this is my attempt to stop doing so.
@@ -26,8 +26,8 @@ The [``gh-pages``](https://github.com/sladewatkins/website/tree/gh-pages) tree w
 ## Maintaining the codebase
 OneCMS/Slade's website is maintained and updated regularly to ensure it is up-to-date, accurate, and of course: secure.
 
-### The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch
-The [``staging``](https://github.com/sladewatkins/website/tree/staging) branch is special - that's where all commits set to roll out to the latest OneCMS release and production website ("master" branch) need to sit and be tested by Slade's Continous Integration (CI) system + a few of his physical systems. This is to ensure no issues are found and things keep going smoothly.
+### The [``staging``](https://github.com/sladewatkins/onecms7/tree/staging) branch
+The [``staging``](https://github.com/sladewatkins/onecms7/tree/staging) branch is special - that's where all commits set to roll out to the latest OneCMS release and production website ("master" branch) need to sit and be tested by Slade's Continous Integration (CI) system + a few of his physical systems. This is to ensure no issues are found and things keep going smoothly.
 
 For documentation regarding how dependencies are upgraded within OneCMS/this repository, see [the documentation](https://www.sladewatkins.com/docs/website/updating-onecms-dependencies/).
 
@@ -35,15 +35,18 @@ For documentation regarding how dependencies are upgraded within OneCMS/this rep
 The two most recent point releases of OneCMS are maintained, with the oldest supported release getting vital security updates **only**.
 
 Currently maintained releases:
-- [7.2.y (current)](https://github.com/sladewatkins/website/tree/master)
-- [7.1.y](https://github.com/sladewatkins/website/tree/version-7.1.y)
+- [7.2.y (current)](https://github.com/sladewatkins/onecms7/tree/master)
+- [7.1.y](https://github.com/sladewatkins/onecms7/tree/version-7.1.y)
 
 Versions prior to the above are End-Of-Life and are no longer supported.
 
-## Find an issue?
-If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website/) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/website/pulls) directed to the [``staging``](https://github.com/sladewatkins/website/tree/staging) branch! I'll take a look at it and might merge it in. (Note: all PRs sent to the ``master`` branch won't be considered. Commits must target ``staging``, see [the documentation here](https://www.sladewatkins.com/docs/website/how-staging-works/) for more details.)
+### Mirrors
+I mirror this repository on both [GitHub](https://github.com/sladewatkins/onecms7) and [Gitlab](https://gitlab.com/sladewatkins/onecms7). Both repositories the same codebase, refs, and other information as one another.
 
-If you'd prefer to just report it, please do so using the [issues tab](https://github.com/sladewatkins/website/issues).
+## Find an issue?
+If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website/) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/onecms7/pulls) directed to the [``staging``](https://github.com/sladewatkins/onecms7/tree/staging) branch! I'll take a look at it and might merge it in. (Note: all PRs sent to the ``master`` branch won't be considered. Commits must target ``staging``, see [the documentation here](https://www.sladewatkins.com/docs/website/how-staging-works/) for more details.)
+
+If you'd prefer to just report it, please do so using the [issues tab](https://github.com/sladewatkins/onecms7/issues).
 
 ## Report security issues
-Please see the [SECURITY.md](https://github.com/sladewatkins/website/blob/master/SECURITY.md) file for more information on reporting security issues.
+Please see the [SECURITY.md](https://github.com/sladewatkins/onecms7/blob/master/SECURITY.md) file for more information on reporting security issues.
