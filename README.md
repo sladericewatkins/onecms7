@@ -46,7 +46,7 @@ I mirror this repository on both [GitHub](https://github.com/sladewatkins/onecms
 ## Find an issue?
 If you find an issue, you might be able to patch it up yourself! Check out [the guide](https://www.sladewatkins.com/docs/website/) to see how you can help. When you've put together your changes, submit them as a [pull request](https://github.com/sladewatkins/onecms7/pulls) directed to the [``staging``](https://github.com/sladewatkins/onecms7/tree/staging) branch! I'll take a look at it and might merge it in. (Note: all PRs sent to the ``master`` branch won't be considered. Commits must target ``staging``, see [the documentation here](https://www.sladewatkins.com/docs/website/how-staging-works/) for more details.)
 
-If you'd prefer to just report it, please do so using the [issues tab](https://github.com/sladewatkins/onecms7/issues).
+In anticipation of the OneCMS 8.0 release in March, we are turning off issue reporting for OneCMS 7.1 and later. We will continue to maintain both versions in the meantime.
 
 ## Report security issues
 Please see the [SECURITY.md](https://github.com/sladewatkins/onecms7/blob/master/SECURITY.md) file for more information on reporting security issues.
