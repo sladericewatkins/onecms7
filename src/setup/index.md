@@ -3,12 +3,12 @@ layout: page
 title: Setup/Equipment
 ---
 
-- **MAIN COMPUTER:**  
-M2 MacBook Pro (16GB RAM)
-- **GAMING COMPUTER:**  
-Lenovo Ideapad Gaming (upgraded to 32GB RAM)
+- **WORKSTATION:**  
+M2 MacBook Pro (16GB RAM) with [macOS Ventura](https://www.apple.com/macos/)
+- **SECONDARY WORKSTATION:**  
+Lenovo Ideapad Gaming (upgraded to 32GB RAM) with [Pop!_OS 22.04 LTS (Linux)](https://pop.system76.com)
 - **SERVER:**  
-Mac mini (Late 2014) for NAS management
+Mac mini (Late 2014) for [BlueBubbles](https://bluebubbles.app) and NAS management with [macOS Monterey](https://en.wikipedia.org/wiki/MacOS_Monterey)
 - **MIC:**  
 Blue Snowball
 - **CAMERA:**  
