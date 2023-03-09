@@ -33,16 +33,12 @@ A source is also included if it wasn't encountered directly by me.
 ## Encountered
 These are arranged by application or function, and I (Slade) encountered  them on a [2022 M2 MacBook Pro](https://support.apple.com/kb/SP870?locale=en_US) running macOS 13 Ventura.
 
-### Finder
-- [13.2] Finder can't seem to remember that I have the Desktop folder favorited and regularly removes it from the Favorites list. ([Source](https://pope.party/@slade/109759401263357010))
-
 ###  System Settings
 *__Author's note__: System Preferences was already bad, but it was stable. This is worse.*
 
 - [13.1] System Settings is unreliable, as it locks up and crashes frequently.
 - [13.1] System Settings doesn't display available updates, despite them being available.
 - [13.1] Constant notifications regarding "new login items" despite nothing on my system actually changing.
-- [13.2] AppleCare+ message won't go away despite declining it several times.
 - [13.1] Settings that were once easily accessible in the previous System Preferences are now gone, or harder to access, in the new System Settings app.
 - [13.1] Searching for something doesn't work 95% of the time.
 
@@ -53,6 +49,10 @@ These are arranged by application or function, and I (Slade) encountered  them o
 - [13.1] Freezes when reading emails from other Mailboxes other than the Inbox.
 
 ## Resolved
+
+### In macOS 13.2.1 Ventura
+- [13.2, Finder] Finder can't seem to remember that I have the Desktop folder favorited and regularly removes it from the Favorites list.
+- [13.2, System Settings] AppleCare+ message won't go away despite declining it several times.
 
 ### In macOS 13.2 Ventura
 - [13.1, Mail] I'm no longer seeing Mail get stuck downloading new messages and requiring a restart of any kind. Your mileage may vary. (Source is self)
