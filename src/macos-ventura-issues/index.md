@@ -26,6 +26,7 @@ A source is also included if it wasn't encountered directly by me.
 	- [System Settings](#system-settings)
 	- [Mail](#mail)
 2. [Resolved](#resolved)
+	- [In macOS 13.2.1 Ventura](#in-macos-1321-ventura)
 	- [In macOS 13.2 Ventura](#in-macos-132-ventura)
 	- [In macOS 13.1 Ventura](#in-macos-131-ventura)
 3. [From other folks on the internet](#from-other-folks-on-the-internet)
