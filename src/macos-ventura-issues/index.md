@@ -22,7 +22,6 @@ A source is also included if it wasn't encountered directly by me.
 
 ## Table of Contents
 1. [Encountered](#encountered)
-	- [Finder](#finder)
 	- [System Settings](#system-settings)
 	- [Mail](#mail)
 2. [Resolved](#resolved)
