@@ -32,7 +32,7 @@ My name is Slade Watkins (though I go by Slade Rice Watkins for most writing-rel
 
 - Revamp of [Kakariko Herald](https://www.kakarikoherald.com) — August 2022
 - Relaunch of [Kakariko Herald](https://www.kakarikoherald.com) — May 2022
-- Officially formed [Wallymer](https://www.wallymer.com) — October 2021
+- Officially formed [SWM Wallymer](https://www.wallymer.com) — October 2021
 - Graduated High School, NYS Regents Diploma — June 2021
 
 ## Want to learn more about me?
