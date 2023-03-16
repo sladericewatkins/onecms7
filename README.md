@@ -38,7 +38,7 @@ Currently supported/maintained releases:
 - [7.2.y (current)](https://github.com/sladewatkins/onecms7/tree/master)
 - [7.1.y](https://github.com/sladewatkins/onecms7/tree/version-7.1.y)
 
-Versions prior to the above are End-Of-Life and are no longer supported. OneCMS 7.2 will lose support in April 2023, following the release of OneCMS 8.1.
+Versions prior to the above are End-Of-Life and are no longer supported. OneCMS 7 will lose support entirely later in 2023, following the release of OneCMS 8.1.
 
 ### Mirrors
 I mirror this repository on both [GitHub](https://github.com/sladewatkins/onecms7) and [Gitlab](https://gitlab.com/sladewatkins/onecms7). Both repositories the same codebase, refs, and other information as one another.
