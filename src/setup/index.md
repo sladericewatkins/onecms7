@@ -16,5 +16,4 @@ Razer Kiyo Pro 1080p60
 - **CAPTURE CARD:**  
 EVGA XR1 Lite
 - **STORAGE:**  
-1TB external HDD  
 2TB NAS (1TB dedicated solely to [Time Machine](https://support.apple.com/en-us/HT201250))
