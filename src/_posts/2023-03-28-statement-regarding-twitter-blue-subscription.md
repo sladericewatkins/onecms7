@@ -19,7 +19,7 @@ I've been getting harassed, so it's time to address this, even though I've [made
 I suspect it is a bug, and I can't do anything about it. Seriously! I do not work for Twitter, nor will I ever work at Twitter (or under Space Karen for that matter, you literally couldn't pay me enough), and I do not have the ability to fix an issue they created by halphazardly "bodging" things together in production with very little testing.
 
 ## Why were you subscribed then? Don't you hate Space Karen?
-I do, yes! The context here is that I was subscribed via a contractor for less than 2 months specifically for research which has long since been contributed & I no longer had no use for it so I had it cancelled because [it was (and is) ridiculous](https://twitter.com/sladewatkins/status/1600694737727500288). That's as much as I'm legally allowed to say due to a non-disclosure agreement. I never gave Twitter any money directly and I will not. Period. End of story.
+I do, yes! The context here is that I was subscribed via a contractor for less than 2 months specifically for research which has long since been contributed & I no longer had no use for it so I had it cancelled because [it was (and is) ridiculous](https://twitter.com/sladewatkins/status/1600694737727500288). That's as much as I'm legally allowed to say due to a non-disclosure agreement. I never gave Twitter any money directly and I never will. Period. End of story.
 
 ## I'm being ethical
 Please know that I adhere to the [SPJ Code of Ethics](https://www.spj.org/pdf/spj-code-of-ethics.pdf) *to a tee* when contributing to research, reporting, etc. I have, and will continue to admit, when I am wrong about something and immediately issue corrections. Period.
