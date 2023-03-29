@@ -25,6 +25,7 @@ A source is also included if it wasn't encountered directly by me.
 	- [System Settings](#system-settings)
 	- [Mail](#mail)
 2. [Resolved](#resolved)
+	- [In macOS 13.3 Ventura](#in-macos-133-ventura)
 	- [In macOS 13.2.1 Ventura](#in-macos-1321-ventura)
 	- [In macOS 13.2 Ventura](#in-macos-132-ventura)
 	- [In macOS 13.1 Ventura](#in-macos-131-ventura)
@@ -49,6 +50,9 @@ These are arranged by application or function, and I (Slade) encountered  them o
 - [13.1] Freezes when reading emails from other Mailboxes other than the Inbox.
 
 ## Resolved
+
+### In macOS 13.3 Ventura
+- None
 
 ### In macOS 13.2.1 Ventura
 - [13.2, Finder] Finder can't seem to remember that I have the Desktop folder favorited and regularly removes it from the Favorites list.
