@@ -28,5 +28,5 @@ I also apply my own "code of ethics" when working on social media. "Paying to pl
 
 Rest assured that my integrity as a researcher and writer/journalist is a million times more important to me than a social media website.
 
-Thank you,
+Thank you,  
 -- Slade
