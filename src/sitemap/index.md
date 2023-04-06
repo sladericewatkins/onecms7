@@ -5,20 +5,19 @@ title: Sitemap
 
 
 ## Pages
-This list is sorted **alphabetically**.
+This list is sorted **alphabetically**, with the exception of the homepage.
 
 - [Home](https://www.sladewatkins.com/)
 - [About](https://www.sladewatkins.com/about/)
 - [Blo(n)g(er)](https://www.sladewatkins.com/blonger/)
 - [Contact](https://www.sladewatkins.com/contact/)
-- [Discord (notice)](https://www.sladewatkins.com/discord/)
 - [Documentation](https://www.sladewatkins.com/docs/)
 - [FAQ](https://www.sladewatkins.com/faq/)
 - [Legal](https://www.sladewatkins.com/legal/)
 - [macOS Ventura Issues](https://www.sladewatkins.com/macos-ventura-issues/)
-- [Reddit (notice)](https://www.sladewatkins.com/reddit/)
+- [Regarding Discord servers in my name](https://www.sladewatkins.com/discord/)
+- [Regarding Reddit subreddits/user accounts](https://www.sladewatkins.com/reddit/)
 - [Setup/Equipment](https://www.sladewatkins.com/setup/)
-- Sitemap (this page)
 - [SpaceHey](https://www.sladewatkins.com/spacehey/)
 - [Writing](https://www.sladewatkins.com/writing/)
 
