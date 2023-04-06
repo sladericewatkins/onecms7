@@ -12,7 +12,7 @@ we may collect) to administer our website, email, or whatever the case may be.
 Rest assured: any data we do collect will be stored securely and handled in
 accordance with this privacy policy.
 
-Last updated: November 23, 2022 (this policy is subject to change at any time)
+Last updated: April 6, 2023 (this policy is subject to change at any time)
 
 ## **GoatCounter** 
 Used to administer: Analytics
@@ -24,26 +24,21 @@ Data trashing policy: N/A
 
 Service privacy policy: [See this page.](https://www.goatcounter.com/help/privacy)
 
-## **Google Workspace** 
-Used to administer: General ops (emails), surveys, shared
-files
+## **Apple (iCloud)**
+Used to administer: General ops (emails)
+
+Data trashing policy: Emails deleted after 1 year of receiving.
+
+Service privacy policy: [See this page.](https://www.apple.com/privacy/)
+
+## **Google Workspace (personal)** 
+Used to administer: Surveys, shared files
 
 Collected data: Names, email addresses
 
-Data trashing policy: Emails deleted after 1 year of receiving. Survey data
-removed 60 days after ending.
+Data trashing policy: Survey data removed 60 days after ending.
 
 Service privacy policy: [See this page.](https://policies.google.com/privacy)
-
-## **Basecamp** 
-Used to administer: General ops (emails), surveys, shared files
-
-Collected data: Email addresses, names, other client information
-
-Data trashing policy: Emails forwarded into Basecamp are deleted after 1 year
-of receiving.
-
-Service privacy policy: [See this page.](https://basecamp.com/about/policies/privacy)
 
 ## **Mailchimp**
 Used to administer: Email list
@@ -52,16 +47,9 @@ Collected data: Email addresses, link clicks
 
 Service privacy policy: [See this page.](https://mailchimp.com/legal/privacy/)
 
-## **Namecheap**
+## **Vercel**
 Used to administer: Web hosting
 
 Collected data: Unknown or not applicable
 
-Service privacy policy: [See this page.](https://www.namecheap.com/legal/general/privacy-policy/)
-
-## **Blo(n)g(er)**
-Used to administer: Blog
-
-Collected data: None at this time. 
-
-Service privacy policy: [See this page.](https://www.sladewatkins.com/privacy/)
+Service privacy policy: [See this page.](https://www.vercel.com/legal/privacy-policy)
