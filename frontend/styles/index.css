@@ -217,3 +217,8 @@ hr {
 .byline {
 	font-size: 18px;
 }
+
+::selection {
+	color: #ffffff;
+	background-color: #B12418;
+}
