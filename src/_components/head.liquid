@@ -1,7 +1,6 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-{% capture resource_title %}
-  {{ title | strip_html | strip_newlines }}{% endcapture %}
+{% capture resource_title %}{{ title | strip | strip_html | strip_newlines }}{% endcapture %}
 <title>{% if resource_title != "Index" %}{{ resource_title }} | {{ metadata.title }}{% else %}{{ metadata.title }}: {{ metadata.tagline }}{% endif %}</title>
 
 <meta name="description" content="{{ metadata.description }}" />
@@ -25,6 +24,11 @@
 
 <link rel="icon" data-turbo-track="reload" href="/favicon.ico" type="image/x-icon" />
 
+<!-- 
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap" rel="stylesheet">
+-->
 <link rel="stylesheet" data-turbo-track="reload" href="{% asset_path css %}" />
 <script data-turbo-track="reload" src="{% asset_path js %}" defer></script>
 {% live_reload_dev_js %}
