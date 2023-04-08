@@ -3,7 +3,7 @@ layout: post
 title:  "RSS is great, now stop truncating your feeds"
 date:   2022-12-27 12:30:00 -0500
 author:  Slade Rice Watkins
-categories: blonger
+categories: blog
 ---
 
 [RSS](http://rssboard.org/rss-specification) (which is known fully as “Really Simple Syndication”) has been around for *a long time*. It’s a simple way to consume and enjoy content from all across the web, and many website owners (usually those with news sites or blogs) include a version of their website using the RSS standard for people who get their news from an RSS reader app.

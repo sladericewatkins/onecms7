@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.title }}<br/>
-<span class="byline">Written by ✏️ {{ page.data.author }} &bull; Published on 📆 {{ page.data.date | date_to_string: "ordinal", "US" }}</span>
+<span class="byline">Written by {{ page.data.author }} &bull; Published on {{ page.data.date | date_to_string: "ordinal", "US" }}</span>
 </h1>
 
 {{ content }}

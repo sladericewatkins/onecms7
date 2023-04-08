@@ -3,7 +3,7 @@ layout: post
 title:  "I think I'm done with Twitter, for now."
 date:   2022-12-22 19:45:00 -0500
 author:  Slade Rice Watkins
-categories: blonger
+categories: posts
 ---
 
 Honestly, I saw this day coming from a mile away. But I didn't think it happen this soon.

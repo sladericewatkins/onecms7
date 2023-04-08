@@ -1,8 +1,6 @@
 # Source URL / Target URL
 /amiibo https://slade.link/amiibo
-/legal/website-cla /legal/website-licenses/cla/
-/posts /blonger/
-/blog /blonger/
+/legal/website-cla /legal/licenses/cla/
 /post /blonger/
 /macosventuraissues /macos-ventura-issues/
 /macos-ventura /macos-ventura-issues/
@@ -38,3 +36,4 @@
 /meta https://linktr.ee/sladewatkins
 /links https://linktr.ee/sladewatkins
 /socials https://linktr.ee/sladewatkins
+/blonger /blog

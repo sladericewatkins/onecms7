@@ -3,7 +3,7 @@ layout: post
 title:  "The Twitter Saga - Episode 'Uh, I Lost Count'"
 date:   2023-01-13 21:40:00 -0500
 author:  Slade Rice Watkins
-categories: blonger
+categories: blog
 ---
 
 On the night of January 12th, 2023, Twitter [removed API access for several *popular* third-party Twitter clients](https://www.theverge.com/2023/1/13/23553161/third-party-twitter-clients-apps-outage-twitterific-tweetbot), including my personal favourite: Tweetbot. For those who don't know, Tweetbot has been the primary way I've accessed and used Twitter since December 2019 -- and has been an indispensible tool for staying connected to my friends and for networking with my fellow journalists. It has also been a way to avoid the changes Elon Musk (from henceforth to be referred to in this post, and any future posts as "Space Karen") has made to the Twitter website as a whole that have made it basically impossible to use. 
