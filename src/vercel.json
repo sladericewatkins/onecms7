@@ -9,8 +9,8 @@
 		  "destination":"/legal/licenses/cla/"
 	  },
 	  {
-		  "source":"/blonger/:path*",
-		  "destination":"/blog/:path*"
+		  "source":"/blonger/:path(.*)",
+		  "destination":"/blog/:path"
 	  },
 	  {
 		  "source":"/posts",
