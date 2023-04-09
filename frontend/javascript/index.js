@@ -13,7 +13,7 @@ import { Application } from "@hotwired/stimulus"
 // Import all JavaScript & CSS files from src/_components
 import components from "bridgetownComponents/**/*.{js,jsx,js.rb,css}"
 
-console.info("OneCMS 7.1.34 loaded!")
+console.info("OneCMS 7.1.35 loaded!")
 
 window.Stimulus = Application.start()
 
