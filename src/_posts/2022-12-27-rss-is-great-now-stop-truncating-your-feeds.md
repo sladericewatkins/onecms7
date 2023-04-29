@@ -14,7 +14,7 @@ Truncated means that the post available in the RSS feed is shortened significant
 
 Because RSS was designed to be “private” in the sense that it doesn’t grab in-line ads, doesn’t support the tracking of visit time or views, and — depending on the site owner — doesn’t always load in-line images either.
 
-Now, there are some ways around this of course, though it would cost site owners a lot of money if they’re on some sort of [pay-per-click/view plan with their client](https://www.sladewatkins.com/blonger/and-now-a-word-from-our-sponsor/). A couple examples I can think of include:
+Now, there are some ways around this of course, though it would cost site owners a lot of money if they’re on some sort of [pay-per-click/view plan with their client](https://www.sladewatkins.com/blog/and-now-a-word-from-our-sponsor/). A couple examples I can think of include:
 - Sponsored excerpts (insert these into posts); or
 - Sponsored posts ([similar to how MacStories does it](https://www.macstories.net/sponsored/))
 
