@@ -41,5 +41,5 @@ For those who'd like to come with me:
 
 Til then...  
 
--- Slade
+-- Slade  
 P.S. *Rest in peace, Twitter of yore. The fediverse will take it from here.* 💙
