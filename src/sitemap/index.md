@@ -9,7 +9,7 @@ This list is sorted **alphabetically**, with the exception of the homepage.
 
 - [Home](https://www.sladewatkins.com/)
 - [About](https://www.sladewatkins.com/about/)
-- [Blo(n)g(er)](https://www.sladewatkins.com/blonger/)
+- [Blog](https://www.sladewatkins.com/blog/)
 - [Contact](https://www.sladewatkins.com/contact/)
 - [Documentation](https://www.sladewatkins.com/docs/)
 - [FAQ](https://www.sladewatkins.com/faq/)
