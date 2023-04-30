@@ -3,7 +3,6 @@ layout: page
 title: Sitemap
 ---
 
-
 ## Pages
 This list is sorted **alphabetically**, with the exception of the homepage.
 
