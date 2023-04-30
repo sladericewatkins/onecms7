@@ -17,7 +17,7 @@ This list is sorted **alphabetically**, with the exception of the homepage.
 - [Regarding Discord servers in my name](https://www.sladewatkins.com/discord/)
 - [Regarding Reddit subreddits/user accounts](https://www.sladewatkins.com/reddit/)
 - [Setup/Equipment](https://www.sladewatkins.com/setup/)
-- [SpaceHey](https://www.sladewatkins.com/spacehey/)
+- [Regarding SpaceHey](https://www.sladewatkins.com/spacehey/)
 - [Writing](https://www.sladewatkins.com/writing/)
 
 ## Metadata & Endpoints
