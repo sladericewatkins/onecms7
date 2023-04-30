@@ -7,8 +7,6 @@ title: Setup/Equipment
 M2 MacBook Pro (16GB RAM) with [macOS Ventura](https://www.apple.com/macos/)
 - **SECONDARY WORKSTATION:**  
 Lenovo Ideapad Gaming (upgraded to 32GB RAM) with *Windows, at the moment.*
-- **SERVER:**  
-Mac mini (Late 2014) for [BlueBubbles](https://bluebubbles.app) and NAS management with [macOS Monterey](https://en.wikipedia.org/wiki/MacOS_Monterey)
 - **MIC:**  
 Blue Snowball
 - **CAMERA:**  
