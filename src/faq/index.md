@@ -7,12 +7,9 @@ title: FAQ
 [TextMate](https://macromates.com/) on Mac, [VSCodium](https://vscodium.com/) on everything else. Both are open source!
 
 ## What operating system(s) do you prefer most?
-[macOS](https://www.apple.com/macos/) and [Pop!_OS](https://pop.system76.com). I'm not a fan of the direction Windows is going in, but keep it around for some development stuff.
+[macOS](https://www.apple.com/macos/) and [Linux](https://distrowatch.com/dwres.php?resource=major) (I'm personally using the Arch-based [Garuda](https://distrowatch.com/table.php?distribution=garuda) with the GNOME desktop environment, at the moment). I'm not a fan of the direction Windows is going in, but keep it around in a VM for some development stuff.
 
-## Where are the archives of your website's previous iterations?
-Each version from v5 and prior has been archived, you can find them in their new homes below:
-- [v4](https://vault.sladewatkins.com/v4/)
-- [v5](https://vault.sladewatkins.com/v5/)
+*Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries and regions.*
 
 ## What phone do you daily drive?
 I daily drive both an [iPhone SE (2nd generation)](https://support.apple.com/kb/SP820?locale=en_US) *and* [Google Pixel 6](https://www.gsmarena.com/google_pixel_6-11037.php), both connected to [US Mobile](https://www.usmobile.com) (Verizon SIM/Warp 5G). I switch which one is in "lead" (read: "has my personal SIM card in it") pretty frequently. It's a bad habit, I know... but hey, it is what it is.
