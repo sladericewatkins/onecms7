@@ -10,7 +10,8 @@ Lenovo Ideapad Gaming (upgraded to 32GB RAM) with *Garuda Linux (GNOME)*.
 - **MIC:**  
 Blue Snowball
 - **CAMERA:**  
-Razer Kiyo Pro 1080p60
+iPhone 12 (4K60)  
+Razer Kiyo Pro (1080p60)
 - **CAPTURE CARD:**  
 EVGA XR1 Lite
 - **STORAGE:**  
