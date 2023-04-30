@@ -16,8 +16,8 @@ This list is sorted **alphabetically**, with the exception of the homepage.
 - [macOS Ventura Issues](https://www.sladewatkins.com/macos-ventura-issues/)
 - [Regarding Discord servers in my name](https://www.sladewatkins.com/discord/)
 - [Regarding Reddit subreddits/user accounts](https://www.sladewatkins.com/reddit/)
-- [Setup/Equipment](https://www.sladewatkins.com/setup/)
 - [Regarding SpaceHey](https://www.sladewatkins.com/spacehey/)
+- [Setup/Equipment](https://www.sladewatkins.com/setup/)
 - [Writing](https://www.sladewatkins.com/writing/)
 
 ## Metadata & Endpoints
