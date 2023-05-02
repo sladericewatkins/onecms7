@@ -2,8 +2,8 @@
 layout: post
 title:  "Statement Regarding Twitter Blue Subcription"
 date:   2023-03-28 00:35:00 -0400
-author:  Slade Rice Watkins
-categories: blonger
+author:  Slade Watkins
+categories: blog
 ---
 
 I've been getting harassed, so it's time to address this, even though I've [made](https://twitter.com/sladewatkins/status/1628929140924592130) [many](https://twitter.com/sladewatkins/status/1639107780299616256), [many](https://twitter.com/sladewatkins/status/1639346961764478976) [posts](https://twitter.com/sladewatkins/status/1640463096119693312) about it: yes, for whatever reason I am verified as a subscriber to Twitter Blue. I'd like to [set the record straight, WITH SCREENSHOTS](https://twitter.com/sladewatkins/status/1640565300503379971) so I can stop enduring the harassment and blocks from fellow writers (I won't name names, that's not my thing.) 

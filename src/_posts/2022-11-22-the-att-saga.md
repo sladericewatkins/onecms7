@@ -2,8 +2,8 @@
 layout: post
 title:  "The AT&T Saga"
 date:   2022-11-22 23:22:44 -0500
-author:  Slade Rice Watkins
-categories: blonger
+author:  Slade Watkins
+categories: blog
 ---
 
 Well, I guess I should explain [what on Earth happened](https://twitter.com/sladewatkins/status/1594799892148662272) to make me finally switch from the carrier that I've defended endlessly for *years* now. **Because my recommendations to family and friends regarding cell phone services are about to change because of the experience.**

@@ -2,8 +2,8 @@
 layout: post
 title:  "And now, a word from our sponsor"
 date:   2022-11-30 21:20:57 -0500
-author:  Slade Rice Watkins
-categories: blonger
+author:  Slade Watkins
+categories: blog
 ---
 
 I've got feelings about accepting sponsorships. And since it's the holiday season, I wanted to share how I determine whether or not to take a sponsorship, or join an affiliate program, as those emails are starting to hit my inbox now...

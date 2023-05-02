@@ -2,7 +2,7 @@
 layout: post
 title:  "I'm No Longer Using Twitter for Professional Purposes"
 date:   2023-04-12 15:15:00 -0400
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "I'm an indecisive mess"
 date:   2022-12-03 00:58:36 -0500
-author:  Slade Rice Watkins
-categories: blonger
+author:  Slade Watkins
+categories: blog
 ---
 
 I got to thinking... I'm an indecisive mess. 
