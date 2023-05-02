@@ -2,7 +2,7 @@
 layout: post
 title:  "RSS is great, now stop truncating your feeds"
 date:   2022-12-27 12:30:00 -0500
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

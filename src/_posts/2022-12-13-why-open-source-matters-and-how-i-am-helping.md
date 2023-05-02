@@ -2,7 +2,7 @@
 layout: post
 title:  "Why open source matters & how I'm helping"
 date:   2022-12-13 07:45:00 -0500
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

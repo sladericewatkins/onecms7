@@ -2,7 +2,7 @@
 layout: post
 title:  "And now, a word from our sponsor"
 date:   2022-11-30 21:20:57 -0500
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

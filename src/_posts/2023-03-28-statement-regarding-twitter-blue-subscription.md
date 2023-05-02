@@ -2,7 +2,7 @@
 layout: post
 title:  "Statement Regarding Twitter Blue Subcription"
 date:   2023-03-28 00:35:00 -0400
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

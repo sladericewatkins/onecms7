@@ -2,7 +2,7 @@
 layout: post
 title:  "Statement: I deleted my TikTok account"
 date:   2023-01-04 21:30:00 -0500
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

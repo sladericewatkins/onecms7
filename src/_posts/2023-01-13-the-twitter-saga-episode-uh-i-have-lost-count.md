@@ -2,7 +2,7 @@
 layout: post
 title:  "The Twitter Saga - Episode 'Uh, I Lost Count'"
 date:   2023-01-13 21:40:00 -0500
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The AT&T Saga"
 date:   2022-11-22 23:22:44 -0500
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: blog
 ---
 
