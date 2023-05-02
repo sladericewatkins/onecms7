@@ -22,4 +22,4 @@ You're probably trying to reach me for a specific reason. Well, select the optio
 - [📧 Anything else](https://www.sladewatkins.com/contact/other/)
 
 ## Please note
-I email from and control both **sladewatkins.com** and **sladewatkins.net**.
+I email from and control **sladewatkins.com**, **sladewatkinsmedia.com**, and **sladewatkins.net**.
