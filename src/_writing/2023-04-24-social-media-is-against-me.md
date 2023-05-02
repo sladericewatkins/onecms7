@@ -2,7 +2,7 @@
 layout: post
 title:  "social media is against me"
 date:   2023-04-24 02:25:00 -0400
-author:  Slade Rice Watkins
+author:  Slade Watkins
 categories: writing
 ---
 
