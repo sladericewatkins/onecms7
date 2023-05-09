@@ -9,6 +9,10 @@
 		  "destination":"/legal/licenses/cla/"
 	  },
 	  {
+		"source":"/writing/",
+		"destination":"https://blogs.sladewatkins.com/writingcorner/"
+	  },
+	  {
 		  "source":"/writing/:path(.*)",
 		  "destination":"https://blogs.sladewatkins.com/writingcorner/:path"
 	  },
