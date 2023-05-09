@@ -9,16 +9,28 @@
 		  "destination":"/legal/licenses/cla/"
 	  },
 	  {
+		  "source":"/writing/:path(.*)",
+		  "destination":"https://blogs.sladewatkins.com/writingcorner/:path"
+	  },
+	  {
 		  "source":"/blonger/:path(.*)",
-		  "destination":"/blog/:path"
+		  "destination":"https://blogs.sladewatkins.com/journal/:path"
+	  },
+	   {
+		  "source":"/blog/",
+		  "destination":"https://blogs.sladewatkins.com"
+	  },
+	  	   {
+		  "source":"/blog",
+		  "destination":"https://blogs.sladewatkins.com"
 	  },
 	  {
 		  "source":"/posts",
-		  "destination":"/blog/"
+		  "destination":"https://blogs.sladewatkins.com"
 	  },
 	  {
 		  "source":"/post",
-		  "destination":"/blog/"
+		  "destination":"https://blogs.sladewatkins.com"
 	  },
 	  {
 	  	  "source":"/macosventuraissues",
