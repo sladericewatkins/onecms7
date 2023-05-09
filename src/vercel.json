@@ -1,26 +1,54 @@
 {
    "redirects":[
       {
-         "source":"/amiibo",
-         "destination":"https://slade.link/amiibo"
+        "source":"/amiibo",
+        "destination":"https://slade.link/amiibo"
       },
 	  {
-		  "source":"/legal/website-cla/",
-		  "destination":"/legal/licenses/cla/"
+		"source":"/legal/website-cla/",
+		"destination":"/legal/licenses/cla/"
 	  },
 	  {
 		"source":"/writing/",
 		"destination":"https://blogs.sladewatkins.com/writingcorner/"
 	  },
 	  {
-		  "source":"/writing/:path(.*)",
-		  "destination":"https://blogs.sladewatkins.com/writingcorner/:path"
+		"source":"/writing/social-media-is-against-me/",
+		"destination":"https://blogs.sladewatkins.com/writingcorner/12-social-media-is-against-me"
 	  },
 	  {
-		  "source":"/blonger/:path(.*)",
-		  "destination":"https://blogs.sladewatkins.com/journal/:path"
+		"source":"/blog/the-att-saga/",
+		"destination":"https://blogs.sladewatkins.com/journal/5-the-att-saga"
 	  },
-	   {
+	  {
+		"source":"/blog/and-now-a-word-from-our-sponsor/",
+		"destination":"https://blogs.sladewatkins.com/journal/9-and-now-a-word-from-our-sponsor"
+	  },
+	  {
+		"source":"/blog/i-am-an-indecisive-mess/",
+		"destination":"https://blogs.sladewatkins.com/journal/12-im-an-indecisive-mess"
+	  },
+	  {
+		"source":"/blog/rss-is-great-now-stop-truncating-your-feeds/",
+		"destination":"https://blogs.sladewatkins.com/journal/15-rss-is-great-now-stop-truncating-your-feeds"
+	  },
+	  {
+		"source":"/blog/what-will-2023-be-the-year-of/",
+		"destination":"https://blogs.sladewatkins.com/journal/19-what-will-2023-be-the-year-of"
+	  },
+	  {
+		"source":"/blog/the-twitter-saga-episode-uh-i-lost-count/",
+		"destination":"https://blogs.sladewatkins.com/journal/28-the-twitter-saga-episode-uh-i-lost-count"
+	  },
+	  {
+		"source":"/blog/statement-regarding-twitter-blue-subscription/",
+		"destination":"https://blogs.sladewatkins.com/journal/33-regarding-twitter-blue-subscription"
+	  },
+	  {
+		"source":"/blog/i-am-no-longer-using-twitter-for-professional-purposes/",
+		"destination":"https://blogs.sladewatkins.com/journal/37-im-no-longer-using-twitter-for-professional-purposes"
+	  },
+	  {
 		  "source":"/blog/",
 		  "destination":"https://blogs.sladewatkins.com"
 	  },
