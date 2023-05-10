@@ -8,7 +8,7 @@ This list is sorted **alphabetically**, with the exception of the homepage.
 
 - [Home](https://www.sladewatkins.com/)
 - [About](https://www.sladewatkins.com/about/)
-- [Blog](https://www.sladewatkins.com/blog/)
+- [Blogs](https://blogs.sladewatkins.com)
 - [Contact](https://www.sladewatkins.com/contact/)
 - [Documentation](https://www.sladewatkins.com/docs/)
 - [FAQ](https://www.sladewatkins.com/faq/)
