@@ -23,7 +23,6 @@ This list is sorted **alphabetically**, with the exception of the homepage.
 ## Metadata & Endpoints
 This list is **unsorted**.
 
-- [Blog RSS](https://www.sladewatkins.com/feed.xml)
 - [WebFinger](https://www.sladewatkins.com/.well-known/webfinger)
 - [NodeInfo](https://www.sladewatkins.com/.well-known/nodeinfo)
 - [Host-Meta](https://www.sladewatkins.com/.well-known/host-meta)
